@@ -3,5 +3,6 @@
     public class test
     {
         public string t { get; set; }
+        public string t2 { get; set; }
     }
 }
