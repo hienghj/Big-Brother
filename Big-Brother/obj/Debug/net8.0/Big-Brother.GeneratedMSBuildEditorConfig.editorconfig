@@ -9,63 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Big_Brother
 build_property.RootNamespace = Big_Brother
-build_property.ProjectDir = C:\Users\FPTSHOP\Desktop\c#\Big-Brother\Big-Brother\
+build_property.ProjectDir = C:\Users\dungh\OneDrive\Máy tính\BigBrother\Big-Brother\Big-Brother\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\FPTSHOP\Desktop\c#\Big-Brother\Big-Brother
+build_property.MSBuildProjectDirectory = C:\Users\dungh\OneDrive\Máy tính\BigBrother\Big-Brother\Big-Brother
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/FPTSHOP/Desktop/c\#/Big-Brother/Big-Brother/Views/BaoCao/Index.cshtml]
+[C:/Users/dungh/OneDrive/Máy tính/BigBrother/Big-Brother/Big-Brother/Views/BaoCao/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFvQ2FvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/c\#/Big-Brother/Big-Brother/Views/DanHang/Index.cshtml]
+[C:/Users/dungh/OneDrive/Máy tính/BigBrother/Big-Brother/Big-Brother/Views/DanHang/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuSGFuZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/c\#/Big-Brother/Big-Brother/Views/Home/Index.cshtml]
+[C:/Users/dungh/OneDrive/Máy tính/BigBrother/Big-Brother/Big-Brother/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/c\#/Big-Brother/Big-Brother/Views/KhachHang/Index.cshtml]
+[C:/Users/dungh/OneDrive/Máy tính/BigBrother/Big-Brother/Big-Brother/Views/KhachHang/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/c\#/Big-Brother/Big-Brother/Views/KhuyenMai/Index.cshtml]
+[C:/Users/dungh/OneDrive/Máy tính/BigBrother/Big-Brother/Big-Brother/Views/KhuyenMai/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2h1eWVuTWFpXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/c\#/Big-Brother/Big-Brother/Views/QuanLyKho/Index.cshtml]
+[C:/Users/dungh/OneDrive/Máy tính/BigBrother/Big-Brother/Big-Brother/Views/QuanLyKho/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbkx5S2hvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/c\#/Big-Brother/Big-Brother/Views/SanPham/Index.cshtml]
+[C:/Users/dungh/OneDrive/Máy tính/BigBrother/Big-Brother/Big-Brother/Views/SanPham/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FuUGhhbVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/c\#/Big-Brother/Big-Brother/Views/Shared/Error.cshtml]
+[C:/Users/dungh/OneDrive/Máy tính/BigBrother/Big-Brother/Big-Brother/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/c\#/Big-Brother/Big-Brother/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/dungh/OneDrive/Máy tính/BigBrother/Big-Brother/Big-Brother/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/c\#/Big-Brother/Big-Brother/Views/TrangChu/Index.cshtml]
+[C:/Users/dungh/OneDrive/Máy tính/BigBrother/Big-Brother/Big-Brother/Views/TrangChu/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbmdDaHVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/c\#/Big-Brother/Big-Brother/Views/_ViewImports.cshtml]
+[C:/Users/dungh/OneDrive/Máy tính/BigBrother/Big-Brother/Big-Brother/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/c\#/Big-Brother/Big-Brother/Views/_ViewStart.cshtml]
+[C:/Users/dungh/OneDrive/Máy tính/BigBrother/Big-Brother/Big-Brother/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FPTSHOP/Desktop/c\#/Big-Brother/Big-Brother/Views/Shared/_Layout.cshtml]
+[C:/Users/dungh/OneDrive/Máy tính/BigBrother/Big-Brother/Big-Brother/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lecgpvwgex
