@@ -1,0 +1,90 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Báo cáo - BBT Shop</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- HEADER -->
+    <div class="TieuDe">
+        <div class="Logo">
+            <img src="img/Logo.png" alt="BBT Shop">
+        </div>
+        <div class="TimKiem">
+            <input type="text" placeholder="Tìm kiếm...">
+        </div>
+        <div class="user-profail" onclick="toggleUserMenu()">
+            <img src="img/user-fail.jpg" alt="User Avatar">
+            <div class="user-menu" id="userMenu">
+                <a href="#">Thông tin tài khoản</a>
+                <a href="#">Đăng xuất</a>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleUserMenu() {
+            document.getElementById("userMenu").classList.toggle("show");
+        }
+        window.onclick = function (event) {
+            if (!event.target.matches('.user-profail img')) {
+                var dropdowns = document.getElementsByClassName("user-menu");
+                for (var i = 0; i < dropdowns.length; i++) {
+                    var openDropdown = dropdowns[i];
+                    if (openDropdown.classList.contains('show')) {
+                        openDropdown.classList.remove('show');
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- SIDEBAR -->
+    <div class="sidebar">
+        <ul>
+            <li><a href="/Home/Index">Dashboard</a></li>
+            <li><a href="/TrangChu/Index">Trang chủ</a></li>
+            <li><a href="/DonHang/Index">Đơn hàng</a></li>
+            <li><a href="/SanPham/Index">Sản phẩm</a></li>
+            <li><a href="/QuanLyKho/Index">Quản lý kho</a></li>
+            <li><a href="/KhachHang/Index">Khách hàng</a></li>
+            <li><a href="/KhuyenMai/Index">Khuyến mãi</a></li>
+            <li class="active"><a href="/BaoCao/Index">Báo cáo</a></li>
+        </ul>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div class="main-content">
+        <h2>Báo cáo</h2>
+
+        <div class="filter-section">
+            <button class="filter-button active">Tổng quan</button>
+            <select class="date-filter">
+                <option>30 ngày qua (13/01/2025 - 11/02/2025)</option>
+            </select>
+        </div>
+
+        <div class="report-grid">
+            <div class="report-box">
+                <span>Doanh thu</span>
+                <span class="arrow">➜</span>
+            </div>
+            <div class="report-box">
+                <span>Lợi nhuận</span>
+                <span class="arrow">➜</span>
+            </div>
+            <div class="report-box">
+                <span>Đơn hàng</span>
+                <span class="arrow">➜</span>
+            </div>
+            <div class="report-box">
+                <span>Top sản phẩm bán chạy</span>
+                <span class="arrow">➜</span>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

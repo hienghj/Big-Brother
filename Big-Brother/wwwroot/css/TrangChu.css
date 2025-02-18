@@ -1,0 +1,214 @@
+﻿/* Định dạng chung */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    background-color: #f1f5f9;
+    color: #333;
+}
+
+/* Header */
+.TieuDe {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Cách đều các phần tử */
+    padding: 10px 20px;
+    background: linear-gradient(to right, #6200ea, #7b1fa2);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    position: fixed;
+    width: 100%;
+    height: 70px; /* Điều chỉnh chiều cao */
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+/* Logo */
+.Logo img {
+    height: 50px; /* Điều chỉnh kích thước hợp lý */
+    max-height: 100%;
+    filter: drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.2));
+}
+
+/* Thanh tìm kiếm */
+.TimKiem input {
+    padding: 10px;
+    width: 280px; /* Thu nhỏ để vừa khung */
+    border: none;
+    border-radius: 25px;
+    outline: none;
+    font-size: 16px;
+    background: white;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+    transition: 0.3s ease-in-out;
+}
+
+.TimKiem input:focus {
+    width: 320px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* User Profile */
+.user-profail {
+    position: relative;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.user-profail img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid white;
+    transition: transform 0.3s;
+}
+
+.user-profail:hover img {
+    transform: scale(1.1);
+}
+
+/* Dropdown User Menu */
+.user-menu {
+    position: absolute;
+    top: 50px;
+    right: 0;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    display: none;
+    flex-direction: column;
+    min-width: 160px;
+}
+
+.user-menu a {
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+    display: block;
+    transition: background 0.3s;
+}
+
+.user-menu a:hover {
+    background: #f1f1f1;
+}
+
+.user-profail:hover .user-menu {
+    display: flex;
+}
+
+
+/* Menu dropdown */
+.user-menu {
+    display: none;
+    position: absolute;
+    top: 45px; /* Hiển thị dưới avatar */
+    right: 0;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    overflow: hidden;
+    z-index: 100;
+}
+
+    .user-menu a {
+        display: block;
+        padding: 10px 15px;
+        text-decoration: none;
+        color: black;
+        white-space: nowrap;
+    }
+
+        .user-menu a:hover {
+            background: #f0f0f0;
+        }
+
+
+/* Sidebar */
+.sidebar {
+    width: 230px;
+    background: #2c3e50;
+    color: white;
+    padding: 20px;
+    height: 100vh;
+    position: fixed;
+    top: 70px; /* Đẩy xuống để tránh header */
+    left: 0;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
+    transition: width 0.3s ease-in-out;
+}
+
+    .sidebar:hover {
+        width: 260px;
+    }
+
+    .sidebar ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .sidebar li {
+        padding: 15px;
+        font-size: 16px;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.3s;
+        display: flex;
+        align-items: center;
+    }
+
+        .sidebar li:hover {
+            background: #34495e;
+            transform: translateX(8px);
+        }
+
+/* Nội dung chính */
+.Trangchu-content {
+    margin-top: 90px; /* Đẩy nội dung xuống dưới header */
+    padding: 20px;
+    margin-left: 250px; /* Chừa chỗ cho sidebar */
+}
+
+/* Bảng */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Phân trang */
+.pagination {
+    margin-top: 20px;
+    text-align: center;
+}
+
+    .pagination button {
+        padding: 8px 12px;
+        margin: 0 5px;
+        border: none;
+        background: #ccc;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+
+        .pagination button.active {
+            background: #007bff;
+            color: white;
+        }
+
+        .pagination button:hover {
+            background: #555;
+            color: white;
+        }

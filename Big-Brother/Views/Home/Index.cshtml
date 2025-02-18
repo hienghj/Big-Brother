@@ -1,0 +1,109 @@
+﻿<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+<script src="~/js/site.js" asp-append-version="true"></script>
+
+<body>
+<div class="TieuDe">
+    <div class="Logo">
+            <img src="~/img/Logo.png" alt="BBT Shop"> 
+
+        </div>
+        <div class=" TimKiem">
+           <header>
+            <input type="text" placeholder="Tìm kiếm...">
+            </header>
+        </div>
+        <div class="user-profail" onclick="toggleUserMenu()">
+            <img src="~/img/user-fail.jpg" alt="User Avatar">
+            <div class="user-menu" id="userMenu">
+                <a href="#">Thông tin tài khoản</a>
+                <a href="#">Đăng xuất</a>
+            </div>
+        </div>
+
+</div>
+    <div class="sidebar">
+        <div>
+            <ul>
+                <li><a href="/Home/Index">Dashboard</a></li>
+                <li><a href="/TrangChu/Index">Trang chủ</a></li>
+                <li><a href="/DanHang/Index">Đơn hàng</a></li>
+                <li><a href="/SanPham/Index">Sản phẩm</a></li>
+                <li><a href="/QuanLyKho/Index">Quản lý kho</a></li>
+                <li><a href="/KhachHang/Index">Khách hàng</a></li>
+                <li><a href="/KhuyenMai/Index">Khuyến mãi</a></li>
+                <li><a href="/BaoCao/Index">Báo cáo</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="dashboard-content">
+        <div>
+            <div class="card">Tổng danh thu <span>7.465</span></div>
+            <div class="card">Tổng đơn <span>700 đơn</span></div>
+        </div>
+        <div class="charts">
+            <div class="charts-box">
+                <h3>Biểu đồ danh thu</h3>
+                <div class="ngay">
+                    <label>Ngày</label>
+                    <select>
+                        <option>Hôm Nay</option>
+                        <option>Tuần Này</option>
+                        <option>Tháng Này</option>
+                    </select>
+                <canvas id="revenueChart"></canvas>
+                </div>
+            </div>
+            <div class="summary">
+                <h3>Doanh số 7 ngày qua</h3>
+                <div>
+                    <h3>1,298</h3>
+                    <p>Sản Phẩm</p>
+                </div>
+                <div>
+                    <h3>12.984</h3>
+                    <p>Tổng Tiền</p>
+                </div>
+            </div>
+        </div>;
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        var ctx = document.getElementById('revenueChart').getContext('2d');
+        var myChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: ['4a', '5a', '6a', '7a', '8a', '9a', '10a', '11a', '12p', '1p', '2p'],
+                datasets: [{
+                    label: 'Ngày 21',
+                    data: [0, 1, 2, 1, 3, 2, 4, 3, 2, 5, 4],
+                    borderColor: '#ccc',
+                    fill: false
+                }, {
+                    label: 'Ngày 22',
+                    data: [1, 2, 3, 2, 4, 5, 3, 4, 5, 3, 4],
+                    borderColor: 'blue',
+                    fill: false
+                }]
+            }
+        });
+    </script>
+    <script>
+        function toggleUserMenu() {
+            let menu = document.getElementById("userMenu");
+            menu.style.display = menu.style.display === "block" ? "none" : "block";
+        }
+
+        // Ẩn menu khi click ra ngoài
+        document.addEventListener("click", function (event) {
+            let profile = document.querySelector(".user-profail");
+            let menu = document.getElementById("userMenu");
+            if (!profile.contains(event.target)) {
+                menu.style.display = "none";
+            }
+        });
+    </script>
+
+</body>
+</html>

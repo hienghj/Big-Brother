@@ -1,0 +1,255 @@
+/* ??nh d?ng chung */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    background-color: #f1f5f9;
+    color: #333;
+}
+
+/* Header */
+.TieuDe {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Gi? các ph?n t? tách nhau */
+    padding: 10px 20px;
+    background: linear-gradient(to right, #6200ea, #7b1fa2);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.Logo img {
+    height: 55px;
+    filter: drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.2));
+}
+
+/* Thanh tìm ki?m */
+.TimKiem input {
+    padding: 12px;
+    width: 350px;
+    border: none;
+    border-radius: 25px;
+    outline: none;
+    font-size: 16px;
+    background: white;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+    transition: 0.3s ease-in-out;
+}
+
+    .TimKiem input:focus {
+        width: 400px;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    }
+
+/* User Profile */
+.user-profail {
+    position: relative;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+    .user-profail img {
+        width: 40px; /* Kích th??c nh? h?n ?? cân ??i */
+        height: 40px;
+        border-radius: 50%;
+        margin-right: 10px;
+        border: 2px solid white;
+        transition: transform 0.3s ease-in-out;
+        object-fit: cover; /* ??m b?o ?nh không b? méo */
+    }
+
+        .user-profail img:hover {
+            transform: scale(1.1);
+        }
+
+/* Dropdown menu */
+.user-menu {
+    display: none;
+    position: absolute;
+    top: 50px;
+    right: 0;
+    background-color: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    width: 180px;
+    z-index: 1000;
+    overflow: hidden;
+}
+
+    .user-menu a {
+        display: block;
+        padding: 10px;
+        text-decoration: none;
+        color: #333;
+        font-size: 14px;
+        transition: background 0.3s ease;
+    }
+
+        .user-menu a:hover {
+            background-color: #f0f0f0;
+        }
+
+
+/* Sidebar */
+.sidebar {
+    width: 230px;
+    background: #2c3e50;
+    color: white;
+    padding: 20px;
+    height: 100vh;
+    position: fixed;
+    top: 80px;
+    left: 0;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
+    transition: width 0.3s ease-in-out;
+}
+
+    .sidebar:hover {
+        width: 260px;
+    }
+
+    .sidebar ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .sidebar li {
+        padding: 15px;
+        font-size: 16px;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.3s;
+        display: flex;
+        align-items: center;
+    }
+
+        .sidebar li:hover {
+            background: #34495e;
+            transform: translateX(8px);
+        }
+
+/* N?i dung chính */
+.dashboard-content {
+    margin-left: 220px; /* Gi? kho?ng cách v?i sidebar */
+    margin-top: 90px; /* ??y n?i dung xu?ng ?? không b? header che m?t */
+    padding: 20px;
+}
+
+
+/* Card Box */
+.card {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    }
+
+/* Bi?u ?? doanh thu */
+.charts {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+/* Chart Box */
+.charts-box {
+    width: 65%;
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+    .charts-box:hover {
+        transform: scale(1.02);
+    }
+
+/* Summary Box */
+.summary {
+    width: 30%;
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+    .summary:hover {
+        transform: scale(1.02);
+    }
+
+    /* Th?ng kê */
+    .summary div {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .summary h3 {
+        font-size: 24px;
+        color: #e74c3c;
+    }
+
+    .summary p {
+        font-size: 14px;
+        color: #777;
+    }
+
+/* Animation Fade-in */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.card,
+.charts-box,
+.summary {
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+/*xóa m?y cái dòng khi t?o trang */
+footer {
+    display: none !important;
+}
+
+.navbar {
+    display: none !important;
+}
+/*----------------------*/
+.sidebar a {
+    color: white; /* Gi? màu ch? là tr?ng */
+    text-decoration: none; /* B? g?ch chân */
+    font-weight: normal;
+    transition: color 0.3s ease-in-out;
+}
+
+    .sidebar a:hover {
+        color: #f1c40f; /* Màu khi hover */
+    }
+
+    .sidebar a:visited {
+        color: white; /* Gi? màu không thay ??i sau khi nh?p vào */
+    }

@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BBT Shop - Trang chủ</title>
+    <link rel="stylesheet" href="~/css/TrangChu.css" asp-append-version="true">
+</head>
+<body>
+    <div class="TieuDe">
+        <div class="Logo">
+            <img src="~/img/Logo.png" alt="BBT Shop">
+        </div>
+        <div class="TimKiem">
+            <header>
+                <input type="text" placeholder="Tìm kiếm...">
+            </header>
+        </div>
+        <div class="user-profail" onclick="toggleUserMenu()">
+            <img src="~/img/user-fail.jpg" alt="User Avatar">
+            <div class="user-menu" id="userMenu">
+                <a href="#">Thông tin tài khoản</a>
+                <a href="#">Đăng xuất</a>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="sidebar">
+        <div>
+            <ul>
+                <li><a href="/Home/Index">Dashboard</a></li>
+                <li class="active"><a href="/TrangChu/Index">Trang chủ</a></li>
+                <li><a href="/DanHang/Index">Đơn hàng</a></li>
+                <li><a href="/SanPham/Index">Sản phẩm</a></li>
+                <li><a href="/QuanLyKho/Index">Quản lý kho</a></li>
+                <li><a href="/KhachHang/Index">Khách hàng</a></li>
+                <li><a href="/KhuyenMai/Index">Khuyến mãi</a></li>
+                <li><a href="/BaoCao/Index">Báo cáo</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="Trangchu-content">
+       
+        <div class="filter">
+            <header>
+                <input type="text" placeholder="Loại" list="filterList" id="inputFilter">
+                <datalist id="filterList">
+                    <option value="Điện thoại"></option>
+                    <option value="Laptop"></option>
+                    <option value="Đồng hồ"></option>
+                </datalist>
+            </header>
+        </div>
+
+        <script>
+            document.getElementById("inputFilter").addEventListener("click", function () {
+                this.value = ""; // Xóa giá trị để hiển thị lại danh sách
+            });
+        </script>
+
+
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Tên</th>
+                    <th>Nhãn hiệu</th>
+                    <th>Số lượng</th>
+                    <th>Giá</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><img src="~/img/iphone.jpg" alt="iPhone"> iPhone 16 Pro Max</td>
+                    <td>Apple</td>
+                    <td>5</td>
+                    <td>$961.14</td>
+                </tr>
+                <tr>
+                    <td><img src="~/img/samsung1.jpg" alt="Samsung"> Samsung Galaxy S25 Ultra 5G</td>
+                    <td>Samsung</td>
+                    <td>5</td>
+                    <td>$961.14</td>
+                </tr>
+                <tr>
+                    <td><img src="~/img/samsung2.jpg" alt="Samsung"> Samsung Galaxy A16</td>
+                    <td>Samsung</td>
+                    <td>5</td>
+                    <td>$961.14</td>
+                </tr>
+                <tr>
+                    <td><img src="~/img/xiaomi.jpg" alt="Xiaomi"> Xiaomi Redmi Note 14</td>
+                    <td>Xiaomi</td>
+                    <td>5</td>
+                    <td>$961.14</td>
+                </tr>
+                <tr>
+                    <td><img src="~/img/oppo.jpg" alt="Oppo"> OPPO Reno13 F 5G</td>
+                    <td>Oppo</td>
+                    <td>5</td>
+                    <td>$961.14</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="pagination">
+            <button>&lt;</button>
+            <button class="active">1</button>
+            <button>2</button>
+            <button>&gt;</button>
+        </div>
+    </div>
+    <!-- Thêm script ngay trước </body> -->
+    <script>
+        function toggleUserMenu() {
+            let menu = document.getElementById("userMenu");
+            menu.style.display = menu.style.display === "block" ? "none" : "block";
+        }
+
+        // Ẩn menu khi click ra ngoài
+        document.addEventListener("click", function (event) {
+            let profile = document.querySelector(".user-profail");
+            let menu = document.getElementById("userMenu");
+            if (!profile.contains(event.target)) {
+                menu.style.display = "none";
+            }
+        });
+    </script>
+    
+
+</body>
+</html>
