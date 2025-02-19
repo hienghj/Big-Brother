@@ -1,22 +1,150 @@
 ﻿<!DOCTYPE html>
-<html>
-<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BBT Shop - Trang chủ</title>
+    <link rel="stylesheet" href="~/css/TrangChu.css" asp-append-version="true">
+    <style>
+        .content {
+            margin-top: 50px;
+            margin-left: 250px;
+            padding: 20px;
+        }
+
+        .inventory-container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .search-bar {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+            .search-bar input, .search-bar select, .search-bar button {
+                padding: 8px;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+            }
+
+        .table-container {
+            width: 100%;
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f8f9fa;
+        }
+
+        .pagination {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+            .pagination a {
+                padding: 5px 10px;
+                border: 1px solid #ccc;
+                margin: 0 5px;
+                text-decoration: none;
+                color: black;
+                border-radius: 5px;
+            }
+
+                .pagination a.active {
+                    background: #007bff;
+                    color: white;
+                }
+
+        .action-buttons {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+            .action-buttons button {
+                padding: 8px 15px;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+            }
+
+        .btn-add {
+            background: #28a745;
+            color: white;
+        }
+
+        .btn-edit {
+            background: #ff9800;
+            color: black;
+        }
+
+        .btn-delete {
+            background: #e60023;
+            color: white;
+        }
+
+        .form-container {
+            display: none;
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+
+        .form-group {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+            .form-group div {
+                flex: 1;
+            }
+
+            .form-group input {
+                width: 100%;
+            }
+
+        .form-actions {
+            display: flex;
+            justify-content: flex-end;
+            gap: 10px;
+        }
+    </style>
+</head>
 <body>
     <div class="TieuDe">
         <div class="Logo">
             <img src="~/img/Logo.png" alt="BBT Shop">
-
         </div>
-        <div class=" TimKiem">
+        <div class="TimKiem">
             <header>
                 <input type="text" placeholder="Tìm kiếm...">
             </header>
         </div>
-        <div class="user-profail">
-            <img src="~/img/user-fail.jpg" />
-            <select>
-                <option>Đăng Xuất</option>
-            </select>
+        <div class="user-profail" onclick="toggleUserMenu()">
+            <img src="~/img/user-fail.jpg" alt="User Avatar">
+            <div class="user-menu" id="userMenu">
+                <a href="#">Thông tin tài khoản</a>
+                <a href="#">Đăng xuất</a>
+            </div>
         </div>
     </div>
 
@@ -34,5 +162,215 @@
             </ul>
         </div>
     </div>
+
+    <div class="content">
+        <h2>Quản lý kho</h2>
+
+        <div class="action-buttons">
+            <button class="btn-add" onclick="openForm('add')">Thêm</button>
+            <button class="btn-edit" onclick="openForm('edit')">Sửa</button>
+            <button class="btn-delete" onclick="deleteProduct()">Xóa</button>
+        </div>
+
+        <div class="form-container" id="formContainer">
+            <h3>Thông tin sản phẩm</h3>
+            <div class="form-group">
+                <div>
+                    <label>Ảnh</label>
+                    <input type="file" id="productImage">
+                </div>
+                <div>
+                    <label>Sản phẩm</label>
+                    <input type="text" id="productName" placeholder="Nhập tên sản phẩm">
+                </div>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label>SKU</label>
+                    <input type="text" id="sku" placeholder="Nhập SKU">
+                </div>
+                <div>
+                    <label>Barcode</label>
+                    <input type="text" id="barcode" placeholder="Nhập Barcode">
+                </div>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label>Đơn vị tính</label>
+                    <input type="text" id="unit" placeholder="Nhập đơn vị tính">
+                </div>
+                <div>
+                    <label>Tồn kho</label>
+                    <input type="number" id="stock" placeholder="Nhập tồn kho">
+                </div>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label>Có thể bán</label>
+                    <input type="number" id="sellable" placeholder="Nhập số lượng có thể bán">
+                </div>
+                <div>
+                    <label>Đang giao dịch</label>
+                    <input type="number" id="inTransaction" placeholder="Nhập số lượng đang giao dịch">
+                </div>
+            </div>
+            <div class="form-actions">
+                <button class="btn-add" onclick="saveProduct()">Lưu</button>
+                <button class="btn-edit" onclick="closeForm()">Hủy</button>
+            </div>
+        </div>
+
+        <div class="inventory-container">
+            <div class="search-bar">
+                <input type="text" placeholder="Tìm kiếm theo mã SKU, tên sản phẩm, barcode">
+                <select>
+                    <option>Ngày tạo</option>
+                    <option>Tồn kho</option>
+                </select>
+            </div>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Ảnh</th>
+                            <th>Sản phẩm</th>
+                            <th>SKU</th>
+                            <th>Barcode</th>
+                            <th>Đơn vị tính</th>
+                            <th>Tồn kho</th>
+                            <th>Có thể bán</th>
+                            <th>Đang giao dịch</th>
+                            <th>Hành động</th>
+                        </tr>
+                    </thead>
+                    <tbody id="productTable">
+                        <tr>
+                            <td><img src="~/img/product.png" alt="Iphone 16 Pro" width="50"></td>
+                            <td>Iphone 16 Pro</td>
+                            <td>AAA</td>
+                            <td>222</td>
+                            <td>SHSHS</td>
+                            <td>20</td>
+                            <td>19</td>
+                            <td>1</td>
+                            <td>
+                                <button class="btn-edit" onclick="openForm('edit', 0)">Sửa</button>
+                                <button class="btn-delete" onclick="deleteProduct(0)">Xóa</button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="pagination">
+            <a href="#">&lt;</a>
+            <a href="#" class="active">1</a>
+            <a href="#">2</a>
+            <a href="#">&gt;</a>
+        </div>
+    </div>
+
+    <script>
+        let products = [];
+        let editIndex = -1;
+
+        function openForm(action, index = -1) {
+            editIndex = index;
+            document.getElementById('formContainer').style.display = 'block';
+            if (action === 'edit' && index !== -1) {
+                const product = products[index];
+                document.getElementById('productImage').value = '';
+                document.getElementById('productName').value = product.name;
+                document.getElementById('sku').value = product.sku;
+                document.getElementById('barcode').value = product.barcode;
+                document.getElementById('unit').value = product.unit;
+                document.getElementById('stock').value = product.stock;
+                document.getElementById('sellable').value = product.sellable;
+                document.getElementById('inTransaction').value = product.inTransaction;
+            } else {
+                document.getElementById('productName').value = '';
+                document.getElementById('sku').value = '';
+                document.getElementById('barcode').value = '';
+                document.getElementById('unit').value = '';
+                document.getElementById('stock').value = '';
+                document.getElementById('sellable').value = '';
+                document.getElementById('inTransaction').value = '';
+            }
+        }
+
+        function closeForm() {
+            document.getElementById('formContainer').style.display = 'none';
+        }
+
+        function saveProduct() {
+            const name = document.getElementById('productName').value;
+            const sku = document.getElementById('sku').value;
+            const barcode = document.getElementById('barcode').value;
+            const unit = document.getElementById('unit').value;
+            const stock = document.getElementById('stock').value;
+            const sellable = document.getElementById('sellable').value;
+            const inTransaction = document.getElementById('inTransaction').value;
+
+            if (editIndex === -1) {
+                products.push({ name, sku, barcode, unit, stock, sellable, inTransaction });
+            } else {
+                products[editIndex] = { name, sku, barcode, unit, stock, sellable, inTransaction };
+                editIndex = -1;
+            }
+
+            renderProducts();
+            closeForm();
+        }
+
+        function deleteProduct(index) {
+            if (index !== undefined) {
+                products.splice(index, 1);
+            } else {
+                const row = event.target.closest('tr');
+                const index = Array.from(row.parentNode.children).indexOf(row);
+                products.splice(index, 1);
+            }
+            renderProducts();
+        }
+
+        document.querySelector('.search-bar input').addEventListener('input', function(event) {
+            const searchTerm = event.target.value.toLowerCase();
+            renderProducts(searchTerm);
+        });
+
+        function renderProducts(searchTerm = '') {
+            const productTable = document.getElementById('productTable');
+            productTable.innerHTML = '';
+
+            const filteredProducts = products.filter(product => {
+                return (
+                    product.sku.toLowerCase().includes(searchTerm) ||
+                    product.name.toLowerCase().includes(searchTerm) ||
+                    product.barcode.toLowerCase().includes(searchTerm)
+                );
+            });
+
+            filteredProducts.forEach((product, index) => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td><img src="~/img/product.png" alt="Product Image" width="50"></td>
+                    <td>${product.name}</td>
+                    <td>${product.sku}</td>
+                    <td>${product.barcode}</td>
+                    <td>${product.unit}</td>
+                    <td>${product.stock}</td>
+                    <td>${product.sellable}</td>
+                    <td>${product.inTransaction}</td>
+                    <td>
+                        <button class="btn-edit" onclick="openForm('edit', ${index})">Sửa</button>
+                        <button class="btn-delete" onclick="deleteProduct(${index})">Xóa</button>
+                    </td>
+                `;
+                productTable.appendChild(row);
+            });
+        }
+
+    </script>
 </body>
 </html>

@@ -1,38 +1,311 @@
 ﻿<!DOCTYPE html>
-<html>
-<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BBT Shop - Trang chủ</title>
+    <link rel="stylesheet" href="~/css/TrangChu.css" asp-append-version="true">
+    <style>
+        .content {
+            margin-top: 50px;
+            margin-left: 250px;
+            padding: 20px;
+        }
+
+        .customer-container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 800px;
+            margin: auto;
+            text-align: center;
+        }
+
+        h2 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        .form-group {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 15px;
+        }
+
+            .form-group div {
+                width: 48%;
+            }
+
+        .gender-options {
+            display: flex;
+            gap: 20px;
+            align-items: center;
+            justify-content: start;
+        }
+
+        .button-group {
+            margin-top: 20px;
+        }
+
+            .button-group button {
+                padding: 10px 15px;
+                border: none;
+                cursor: pointer;
+                border-radius: 5px;
+                margin: 5px;
+            }
+
+            .button-group .add-btn {
+                background: #28a745;
+                color: white;
+            }
+
+            .button-group .edit-btn {
+                background: #ff9800;
+            }
+
+            .button-group .delete-btn {
+                background: #e60023;
+                color: white;
+            }
+
+        .customer-list {
+            margin-top: 20px;
+            text-align: left;
+            list-style-type: none;
+            padding: 0;
+        }
+
+            .customer-list li {
+                background: #f9f9f9;
+                margin: 10px 0;
+                padding: 15px;
+                border-radius: 5px;
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+            }
+
+            .customer-list button {
+                margin-left: 10px;
+            }
+
+            .customer-list .edit-btn {
+                background: #ff9800;
+                color: white;
+            }
+
+            .customer-list .delete-btn {
+                background: #e60023;
+                color: white;
+            }
+
+
+        .pagination {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+            .pagination a {
+                padding: 5px 10px;
+                border: 1px solid #ccc;
+                margin: 0 5px;
+                text-decoration: none;
+                color: black;
+                border-radius: 5px;
+            }
+
+                .pagination a.active {
+                    background: #007bff;
+                    color: white;
+                }
+    </style>
+</head>
 <body>
     <div class="TieuDe">
         <div class="Logo">
             <img src="~/img/Logo.png" alt="BBT Shop">
-
         </div>
-        <div class=" TimKiem">
+        <div class="TimKiem">
             <header>
                 <input type="text" placeholder="Tìm kiếm...">
             </header>
         </div>
-        <div class="user-profail">
-            <img src="~/img/user-fail.jpg" />
-            <select>
-                <option>Đăng Xuất</option>
-            </select>
+        <div class="user-profail" onclick="toggleUserMenu()">
+            <img src="~/img/user-fail.jpg" alt="User Avatar">
+            <div class="user-menu" id="userMenu">
+                <a href="#">Thông tin tài khoản</a>
+                <a href="#">Đăng xuất</a>
+            </div>
         </div>
     </div>
 
     <div class="sidebar">
-        <div>
-            <ul>
-                <li><a href="/Home/Index">Dashboard</a></li>
-                <li><a href="/TrangChu/Index">Trang chủ</a></li>
-                <li><a href="/DanHang/Index">Đơn hàng</a></li>
-                <li><a href="/SanPham/Index">Sản phẩm</a></li>
-                <li><a href="/QuanLyKho/Index">Quản lý kho</a></li>
-                <li><a href="/KhachHang/Index">Khách hàng</a></li>
-                <li><a href="/KhuyenMai/Index">Khuyến mãi</a></li>
-                <li><a href="/BaoCao/Index">Báo cáo</a></li>
-            </ul>
+        <ul>
+            <li><a href="/Home/Index">Dashboard</a></li>
+            <li><a href="/TrangChu/Index">Trang chủ</a></li>
+            <li><a href="/DanHang/Index">Đơn hàng</a></li>
+            <li><a href="/SanPham/Index">Sản phẩm</a></li>
+            <li><a href="/QuanLyKho/Index">Quản lý kho</a></li>
+            <li><a href="/KhachHang/Index">Khách hàng</a></li>
+            <li><a href="/KhuyenMai/Index">Khuyến mãi</a></li>
+            <li><a href="/BaoCao/Index">Báo cáo</a></li>
+        </ul>
+    </div>
+    <div class="content">
+        <div class="customer-container">
+            <h2>Khách hàng</h2>
+            <h3>Thông tin cơ bản</h3>
+            <div class="form-group">
+                <div>
+                    <label>Họ</label>
+                    <input type="text" id="lastName" placeholder="Nhập họ">
+                </div>
+                <div>
+                    <label>Tên</label>
+                    <input type="text" id="firstName" placeholder="Nhập tên">
+                </div>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label>Email</label>
+                    <input type="email" id="email" placeholder="Nhập email">
+                </div>
+                <div>
+                    <label>Số điện thoại</label>
+                    <input type="text" id="phone" placeholder="Nhập số điện thoại">
+                </div>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label>Ngày sinh</label>
+                    <input type="date" id="dob">
+                </div>
+                <div>
+                    <label>Giới tính</label>
+                    <div class="gender-options">
+                        <input type="radio" name="gender" value="Nam"> Nam
+                        <input type="radio" name="gender" value="Nữ"> Nữ
+                        <input type="radio" name="gender" value="Khác"> Khác
+                    </div>
+                </div>
+            </div>
+            <div class="button-group">
+                <button class="add-btn" onclick="addCustomer()">Thêm</button>
+                <button class="edit-btn" onclick="saveCustomer()">Sửa</button>
+                <button class="delete-btn" onclick="deleteCustomer()">Xóa</button>
+            </div>
+            <h3>Danh sách khách hàng</h3>
+            <input type="text" id="searchInput" placeholder="Tìm kiếm khách hàng..." oninput="searchCustomer()" style="width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px;">
+            <ul class="customer-list" id="customerList"></ul>
+        </div>
+        <div class="pagination">
+            <button>&lt;</button>
+            <button class="active">1</button>
+            <button>2</button>
+            <button>&gt;</button>
         </div>
     </div>
+
+    <script>
+        let customers = [];
+        let editIndex = -1;
+
+        function addCustomer() {
+            const lastName = document.getElementById('lastName').value;
+            const firstName = document.getElementById('firstName').value;
+            const email = document.getElementById('email').value;
+            const phone = document.getElementById('phone').value;
+            const dob = document.getElementById('dob').value;
+            const gender = document.querySelector('input[name="gender"]:checked')?.value || '';
+
+            if (lastName && firstName && email && phone && dob && gender) {
+                customers.push({ lastName, firstName, email, phone, dob, gender });
+                renderCustomers();
+                clearForm();
+            }
+        }
+
+
+        function editCustomer(index) {
+            const customer = customers[index];
+            document.getElementById('lastName').value = customer.lastName;
+            document.getElementById('firstName').value = customer.firstName;
+            document.getElementById('email').value = customer.email;
+            document.getElementById('phone').value = customer.phone;
+            document.getElementById('dob').value = customer.dob;
+            document.querySelectorAll('input[name="gender"]').forEach(radio => {
+                radio.checked = radio.value === customer.gender;
+            });
+
+            editIndex = index;
+        }
+
+        function saveCustomer() {
+            if (editIndex !== -1) {
+                customers[editIndex].lastName = document.getElementById('lastName').value;
+                customers[editIndex].firstName = document.getElementById('firstName').value;
+                customers[editIndex].email = document.getElementById('email').value;
+                customers[editIndex].phone = document.getElementById('phone').value;
+                customers[editIndex].dob = document.getElementById('dob').value;
+                customers[editIndex].gender = document.querySelector('input[name="gender"]:checked')?.value || '';
+
+                renderCustomers();
+                clearForm();
+                editIndex = -1;
+            }
+        }
+
+        function deleteCustomer(index) {
+            customers.splice(index, 1);
+            renderCustomers();
+        }
+
+        function searchCustomer() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            renderCustomers(searchTerm);
+        }
+
+
+        function renderCustomers(searchTerm = '') {
+            const list = document.getElementById('customerList');
+            list.innerHTML = '';
+
+            const filteredCustomers = customers.filter(customer =>
+                customer.lastName.toLowerCase().includes(searchTerm) ||
+                customer.firstName.toLowerCase().includes(searchTerm) ||
+                customer.email.toLowerCase().includes(searchTerm) ||
+                customer.phone.includes(searchTerm)
+            );
+
+            filteredCustomers.forEach((customer, index) => {
+                const listItem = document.createElement('li');
+                listItem.innerHTML = `
+                    <strong>${customer.lastName} ${customer.firstName}</strong>
+                    <br>Email: ${customer.email}
+                    <br>Điện thoại: ${customer.phone}
+                    <br>Ngày sinh: ${customer.dob}
+                    <br>Giới tính: ${customer.gender}
+                    <br>
+                    <button class="edit-btn customer-list" onclick="editCustomer(${index})">Sửa</button>
+                    <button class="delete-btn customer-list" onclick="deleteCustomer(${index})">Xóa</button>
+                `;
+                list.appendChild(listItem);
+            });
+        }
+
+
+        function clearForm() {
+            document.getElementById('lastName').value = '';
+            document.getElementById('firstName').value = '';
+            document.getElementById('email').value = '';
+            document.getElementById('phone').value = '';
+            document.getElementById('dob').value = '';
+            document.querySelectorAll('input[name="gender"]').forEach(radio => radio.checked = false);
+        }
+    </script>
 </body>
 </html>
