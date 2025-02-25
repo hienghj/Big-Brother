@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ymqX7UekiXstH80Evp1KuKJABSi3Ffqnz0+RC1Sz/Uk=",
+  "Hash": "gdPDjowPFKglwP9ebn5cCvi/XYLa5hKi7eU68OZMjJI=",
   "Source": "Big-Brother",
   "BasePath": "_content/Big-Brother",
   "Mode": "Default",
@@ -78,6 +78,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\BaoCao.css"
+    },
+    {
+      "Identity": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\KhachHang.css",
+      "SourceId": "Big-Brother",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\",
+      "BasePath": "_content/Big-Brother",
+      "RelativePath": "css/KhachHang#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "57b9ea1fof",
+      "Integrity": "8aZwCVW8cAArwz2kjxCKQDlx1ZhqlumHzcRBv78UWHw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\KhachHang.css"
+    },
+    {
+      "Identity": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\QuanLyKho.css",
+      "SourceId": "Big-Brother",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\",
+      "BasePath": "_content/Big-Brother",
+      "RelativePath": "css/QuanLyKho#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5h6mcd0q6q",
+      "Integrity": "SSrOFM/nswQ2i51oQOS8B/DZX2SdRANDPLbKCtPcfDg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\QuanLyKho.css"
     },
     {
       "Identity": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\site.css",
@@ -1647,6 +1689,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-0vi7Z24bXYK5jo4sx/9nw4Dvglt7RS4YxmFbbm5Spf4="
+        }
+      ]
+    },
+    {
+      "Route": "css/KhachHang.57b9ea1fof.css",
+      "AssetFile": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\KhachHang.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8aZwCVW8cAArwz2kjxCKQDlx1ZhqlumHzcRBv78UWHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 06:51:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "57b9ea1fof"
+        },
+        {
+          "Name": "label",
+          "Value": "css/KhachHang.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8aZwCVW8cAArwz2kjxCKQDlx1ZhqlumHzcRBv78UWHw="
+        }
+      ]
+    },
+    {
+      "Route": "css/KhachHang.css",
+      "AssetFile": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\KhachHang.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8aZwCVW8cAArwz2kjxCKQDlx1ZhqlumHzcRBv78UWHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 06:51:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8aZwCVW8cAArwz2kjxCKQDlx1ZhqlumHzcRBv78UWHw="
+        }
+      ]
+    },
+    {
+      "Route": "css/QuanLyKho.5h6mcd0q6q.css",
+      "AssetFile": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\QuanLyKho.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SSrOFM/nswQ2i51oQOS8B/DZX2SdRANDPLbKCtPcfDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 06:52:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5h6mcd0q6q"
+        },
+        {
+          "Name": "label",
+          "Value": "css/QuanLyKho.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SSrOFM/nswQ2i51oQOS8B/DZX2SdRANDPLbKCtPcfDg="
+        }
+      ]
+    },
+    {
+      "Route": "css/QuanLyKho.css",
+      "AssetFile": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\QuanLyKho.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SSrOFM/nswQ2i51oQOS8B/DZX2SdRANDPLbKCtPcfDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 06:52:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SSrOFM/nswQ2i51oQOS8B/DZX2SdRANDPLbKCtPcfDg="
         }
       ]
     },

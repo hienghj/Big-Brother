@@ -1,0 +1,121 @@
+﻿.content {
+    margin-top: 50px;
+    margin-left: 250px;
+    padding: 20px;
+}
+
+.inventory-container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.search-bar {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+    .search-bar input, .search-bar select, .search-bar button {
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+.table-container {
+    width: 100%;
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #f8f9fa;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+    .pagination a {
+        padding: 5px 10px;
+        border: 1px solid #ccc;
+        margin: 0 5px;
+        text-decoration: none;
+        color: black;
+        border-radius: 5px;
+    }
+
+        .pagination a.active {
+            background: #007bff;
+            color: white;
+        }
+
+.action-buttons {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+    .action-buttons button {
+        padding: 8px 15px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+.btn-add {
+    background: #28a745;
+    color: white;
+}
+
+.btn-edit {
+    background: #ff9800;
+    color: black;
+}
+
+.btn-delete {
+    background: #e60023;
+    color: white;
+}
+
+.form-container {
+    display: none;
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.form-group {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+    .form-group div {
+        flex: 1;
+    }
+
+    .form-group input {
+        width: 100%;
+    }
+
+.form-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}

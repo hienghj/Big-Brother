@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\css\\BaoCao.css"
     },
     {
+      "Id": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\KhachHang.css",
+      "PackagePath": "staticwebassets\\css\\KhachHang.css"
+    },
+    {
+      "Id": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\QuanLyKho.css",
+      "PackagePath": "staticwebassets\\css\\QuanLyKho.css"
+    },
+    {
       "Id": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\TrangChu.css",
       "PackagePath": "staticwebassets\\css\\TrangChu.css"
     },
