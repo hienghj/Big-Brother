@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Big-Brother.7xz5luomnl.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7xz5luomnl"},{"Name":"integrity","Value":"sha256-5U0kzfzWiFnZqBi6/r1yDxTz1neaJe\u002BGUy345\u002B2U0MM="},{"Name":"label","Value":"_content/Big-Brother/Big-Brother.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1129"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225U0kzfzWiFnZqBi6/r1yDxTz1neaJe\u002BGUy345\u002B2U0MM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 15:06:47 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1129"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225U0kzfzWiFnZqBi6/r1yDxTz1neaJe\u002BGUy345\u002B2U0MM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 25 Feb 2025 08:20:25 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Big-Brother/Big-Brother.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Big-Brother.7xz5luomnl.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5U0kzfzWiFnZqBi6/r1yDxTz1neaJe\u002BGUy345\u002B2U0MM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1129"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225U0kzfzWiFnZqBi6/r1yDxTz1neaJe\u002BGUy345\u002B2U0MM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 15:06:47 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1129"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225U0kzfzWiFnZqBi6/r1yDxTz1neaJe\u002BGUy345\u002B2U0MM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 25 Feb 2025 08:20:25 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Big-Brother/css/BaoCao.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\BaoCao.css'))</AssetFile>
