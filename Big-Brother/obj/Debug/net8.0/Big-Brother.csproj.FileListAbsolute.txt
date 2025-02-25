@@ -28,6 +28,43 @@ C:\Users\FPTSHOP\Desktop\c#\Big-Brother\Big-Brother\obj\Debug\net8.0\refint\Big-
 C:\Users\FPTSHOP\Desktop\c#\Big-Brother\Big-Brother\obj\Debug\net8.0\Big-Brother.pdb
 C:\Users\FPTSHOP\Desktop\c#\Big-Brother\Big-Brother\obj\Debug\net8.0\Big-Brother.genruntimeconfig.cache
 C:\Users\FPTSHOP\Desktop\c#\Big-Brother\Big-Brother\obj\Debug\net8.0\ref\Big-Brother.dll
+
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\bin\Debug\net8.0\appsettings.Development.json
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\bin\Debug\net8.0\appsettings.json
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\bin\Debug\net8.0\Big-Brother.staticwebassets.runtime.json
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\bin\Debug\net8.0\Big-Brother.staticwebassets.endpoints.json
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\bin\Debug\net8.0\Big-Brother.exe
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\bin\Debug\net8.0\Big-Brother.deps.json
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\bin\Debug\net8.0\Big-Brother.runtimeconfig.json
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\bin\Debug\net8.0\Big-Brother.dll
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\bin\Debug\net8.0\Big-Brother.pdb
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\Big-Brother.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\Big-Brother.AssemblyInfoInputs.cache
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\Big-Brother.AssemblyInfo.cs
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\Big-Brother.csproj.CoreCompileInputs.cache
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\Big-Brother.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\Big-Brother.RazorAssemblyInfo.cache
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\Big-Brother.RazorAssemblyInfo.cs
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\Big-Brother.sourcelink.json
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\scopedcss\bundle\Big-Brother.styles.css
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\scopedcss\projectbundle\Big-Brother.bundle.scp.css
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\staticwebassets.build.json
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\staticwebassets.development.json
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\staticwebassets\msbuild.Big-Brother.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\staticwebassets\msbuild.Big-Brother.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\staticwebassets\msbuild.build.Big-Brother.props
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Big-Brother.props
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Big-Brother.props
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\Big-Brother.dll
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\refint\Big-Brother.dll
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\Big-Brother.pdb
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\Big-Brother.genruntimeconfig.cache
+D:\Downloads\GithubDesktop_Big-Brother\Big-Brother\Big-Brother\obj\Debug\net8.0\ref\Big-Brother.dll
+
 C:\Users\User\OneDrive\Desktop\BBT Shop\Big-Brother\Big-Brother\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\User\OneDrive\Desktop\BBT Shop\Big-Brother\Big-Brother\bin\Debug\net8.0\appsettings.json
 C:\Users\User\OneDrive\Desktop\BBT Shop\Big-Brother\Big-Brother\bin\Debug\net8.0\Big-Brother.staticwebassets.runtime.json
@@ -63,3 +100,4 @@ C:\Users\User\OneDrive\Desktop\BBT Shop\Big-Brother\Big-Brother\obj\Debug\net8.0
 C:\Users\User\OneDrive\Desktop\BBT Shop\Big-Brother\Big-Brother\obj\Debug\net8.0\Big-Brother.pdb
 C:\Users\User\OneDrive\Desktop\BBT Shop\Big-Brother\Big-Brother\obj\Debug\net8.0\Big-Brother.genruntimeconfig.cache
 C:\Users\User\OneDrive\Desktop\BBT Shop\Big-Brother\Big-Brother\obj\Debug\net8.0\ref\Big-Brother.dll
+
