@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE html>
 <html>
-<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/css/Sanpham.css" asp-append-version="true" />
 <body>
     <div class="TieuDe">
         <div class="Logo">
@@ -34,5 +34,108 @@
             </ul>
         </div>
     </div>
+    <div class="content">
+        <h1>Quản lí sản phẩm</h1>
+
+        <div class="toolbar">
+            <input type="text" placeholder="Search product...">
+            <select>
+                <option>Category</option>
+            </select>
+            <select>
+                <option>Stock Status</option>
+            </select>
+            <button class="add-btn" onclick="openModal()">➕ Thêm</button>
+            <button class="edit-btn">✏️ Sửa</button>
+            <button class="delete-btn">🗑️ Xóa</button>
+        </div>
+
+        <table>
+            <tr>
+                <th>Hình ảnh</th>
+                <th>ID</th>
+                <th>Tên</th>
+                <th>Nhãn hiệu</th>
+                <th>Giá</th>
+                <th>Trạng thái</th>
+            </tr>
+            <tr>
+                <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbjwdYu7Dg_NEgaAEjd0l22DOaS2BiMUQM8A&s" alt="Product A" class="product-img"></td>
+                <td>#P1001</td>
+                <td>acer nitro 5 i7-11800h rtx 3050</td>
+                <td>Acer</td>
+                <td>$100</td>
+                <td class="in-stock">In Stock</td>
+            </tr>
+            <tr>
+                <td><img src="https://dlcdnwebimgs.asus.com/gain/475f1457-ebb7-46a2-a6ae-a63e2909efa8/w800" alt="Product B" class="product-img"></td>
+                <td>#P1002</td>
+                <td>asus tuf gaming f15 2023</td>
+                <td>Asus</td>
+                <td>$50</td>
+                <td class="out-of-stock">Out of Stock</td>
+            </tr>
+    </div>
+    <!-- FORM POPUP -->
+    <div id="productModal" class="modal">
+        <div class="modal-content">
+            <h3>Add Product</h3>
+            <input type="text" id="productName" placeholder="Tên">
+            <input type="text" id="productCategory" placeholder="Nhãn hiệu">
+            <input type="number" id="productPrice" placeholder="Giá">
+            <select id="productStock">
+                <option value="In Stock">In Stock</option>
+                <option value="Out of Stock">Out of Stock</option>
+            </select>
+            <input type="file" id="productImage">
+            <button class="save-btn" onclick="saveProduct()">Lưu</button>
+            <button class="cancel-btn" onclick="closeModal()">Hủy</button>
+        </div>
+    </div>
+
+    <script>
+        function openModal() {
+            document.getElementById("productModal").style.display = "block";
+        }
+
+        function closeModal() {
+            document.getElementById("productModal").style.display = "none";
+        }
+
+        function saveProduct() {
+            let name = document.getElementById("productName").value;
+            let category = document.getElementById("productCategory").value;
+            let price = document.getElementById("productPrice").value;
+            let stock = document.getElementById("productStock").value;
+            let imageInput = document.getElementById("productImage");
+
+            if (name === "" || category === "" || price === "") {
+                alert("Cần điền thông tin vào trường này");
+                return;
+            }
+
+            let stockClass = stock === "In Stock" ? "in-stock" : "out-of-stock";
+
+            let imgSrc = "https://via.placeholder.com/60";
+            if (imageInput.files.length > 0) {
+                let file = URL.createObjectURL(imageInput.files[0]);
+                imgSrc = file;
+            }
+
+            let table = document.getElementById("productTable");
+            let newRow = table.insertRow(-1);
+            newRow.innerHTML = `
+                <td><img src="${imgSrc}" class="product-img"></td>
+                <td>#P${Math.floor(Math.random() * 10000)}</td>
+                <td>${name}</td>
+                <td>${category}</td>
+                <td>$${price}</td>
+                <td class="stock-status ${stockClass}">${stock}</td>
+            `;
+
+            closeModal();
+        }
+    </script>
+
 </body>
 </html>

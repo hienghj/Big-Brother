@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE html>
 <html>
-<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/css/Donhang.css" asp-append-version="true" />
 <body>
     <div class="TieuDe">
         <div class="Logo">
@@ -34,5 +34,44 @@
             </ul>
         </div>
     </div>
+    <div class="content">
+        <h1>Đơn hàng</h1>
+        <div class="filters">
+            <input type="text" placeholder="Tìm kiếm">
+            <select>
+                <option>Trạng thái đơn hàng</option>
+            </select>
+            <select>
+                <option>Ngày tạo</option>
+            </select>
+        </div>
+        <table>
+            <tr>
+                <th>Mã đơn hàng</th>
+                <th>Ngày tạo</th>
+                <th>Khách hàng</th>
+                <th>Nguồn đơn</th>
+                <th>Thành tiền</th>
+                <th>Trạng thái thanh toán</th>
+                <th>Trạng thái xử lý</th>
+            </tr>
+            <tr>
+                <td>#1001</td>
+                <td>11/02/2025 19:18</td>
+                <td>---</td>
+                <td>Admin</td>
+                <td>$96</td>
+                <td>
+                    <button class="payment-status" onclick="togglePayment(this)">Đã thanh toán</button>
+                </td>
+                <td><span class="pending">Chưa xử lý giao hàng</span></td>
+            </tr>
+        </table>
+    </div>
+    <script>
+        function togglePayment(button) {
+            button.classList.toggle("paid"); // Thêm hoặc xóa class 'paid'
+        }
+    </script>
 </body>
 </html>
