@@ -109,8 +109,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -121,8 +125,7 @@
               "RelativeToolTip": "Big-Brother\\wwwroot\\css\\QuanLyKho.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-25T06:52:37.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T06:52:37.879Z"
             },
             {
               "$type": "Document",
@@ -134,8 +137,7 @@
               "RelativeToolTip": "Big-Brother\\wwwroot\\css\\KhachHang.css",
               "ViewState": "AgIAAGAAAAAAAAAAAAAqwHQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-25T06:50:29.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T06:50:29.492Z"
             },
             {
               "$type": "Document",
@@ -147,8 +149,7 @@
               "RelativeToolTip": "Big-Brother\\wwwroot\\css\\BaoCao.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-13T02:23:03.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T02:23:03.206Z"
             },
             {
               "$type": "Document",
@@ -242,7 +243,7 @@
               "RelativeDocumentMoniker": "Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
               "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-12T07:42:57.361Z",
               "EditorCaption": ""
@@ -279,8 +280,7 @@
               "RelativeToolTip": "Big-Brother\\Views\\KhachHang\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T07:51:32.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T07:51:32.19Z"
             },
             {
               "$type": "Document",
@@ -413,10 +413,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-02-12T04:40:56.534Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
