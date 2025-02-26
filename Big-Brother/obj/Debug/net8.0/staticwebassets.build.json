@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+Dlp534ZKMQLE6/vlqcp2n1PIVENdCWBIofdS50MGWg=",
+  "Hash": "iv0ofne2PMNDAclSej/NHVk6SzckJSoPmLpYiNFRxgA=",
   "Source": "Big-Brother",
   "BasePath": "_content/Big-Brother",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yvvbpm4ayd",
-      "Integrity": "0vi7Z24bXYK5jo4sx/9nw4Dvglt7RS4YxmFbbm5Spf4=",
+      "Fingerprint": "y1m9dhhvgi",
+      "Integrity": "GkclxjURvgvAYRpUP380RfGRuiBxmzKKuSIMJ9cXfEc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\BaoCao.css"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dyjx89twm7",
-      "Integrity": "u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk=",
+      "Fingerprint": "hjvxm2ozfe",
+      "Integrity": "7Xt0CqwiqOZ/DykoLWzmoKidOE8dt0RrSOcevphTBfw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Khuyenmai.css"
@@ -1600,7 +1600,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3379"
+          "Value": "1853"
         },
         {
           "Name": "Content-Type",
@@ -1608,11 +1608,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0vi7Z24bXYK5jo4sx/9nw4Dvglt7RS4YxmFbbm5Spf4=\""
+          "Value": "\"GkclxjURvgvAYRpUP380RfGRuiBxmzKKuSIMJ9cXfEc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 07:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 08:07:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1622,12 +1622,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0vi7Z24bXYK5jo4sx/9nw4Dvglt7RS4YxmFbbm5Spf4="
+          "Value": "sha256-GkclxjURvgvAYRpUP380RfGRuiBxmzKKuSIMJ9cXfEc="
         }
       ]
     },
     {
-      "Route": "css/BaoCao.yvvbpm4ayd.css",
+      "Route": "css/BaoCao.y1m9dhhvgi.css",
       "AssetFile": "C:\\Users\\dungh\\OneDrive\\Máy tính\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\BaoCao.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1637,7 +1637,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3379"
+          "Value": "1853"
         },
         {
           "Name": "Content-Type",
@@ -1645,11 +1645,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0vi7Z24bXYK5jo4sx/9nw4Dvglt7RS4YxmFbbm5Spf4=\""
+          "Value": "\"GkclxjURvgvAYRpUP380RfGRuiBxmzKKuSIMJ9cXfEc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 07:40:49 GMT"
+          "Value": "Wed, 26 Feb 2025 08:07:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1659,7 +1659,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yvvbpm4ayd"
+          "Value": "y1m9dhhvgi"
         },
         {
           "Name": "label",
@@ -1667,7 +1667,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0vi7Z24bXYK5jo4sx/9nw4Dvglt7RS4YxmFbbm5Spf4="
+          "Value": "sha256-GkclxjURvgvAYRpUP380RfGRuiBxmzKKuSIMJ9cXfEc="
         }
       ]
     },
@@ -1682,7 +1682,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14"
+          "Value": "2061"
         },
         {
           "Name": "Content-Type",
@@ -1690,11 +1690,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk=\""
+          "Value": "\"7Xt0CqwiqOZ/DykoLWzmoKidOE8dt0RrSOcevphTBfw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 07:50:05 GMT"
+          "Value": "Wed, 26 Feb 2025 08:04:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1704,12 +1704,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk="
+          "Value": "sha256-7Xt0CqwiqOZ/DykoLWzmoKidOE8dt0RrSOcevphTBfw="
         }
       ]
     },
     {
-      "Route": "css/Khuyenmai.dyjx89twm7.css",
+      "Route": "css/Khuyenmai.hjvxm2ozfe.css",
       "AssetFile": "C:\\Users\\dungh\\OneDrive\\Máy tính\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\Khuyenmai.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1719,7 +1719,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14"
+          "Value": "2061"
         },
         {
           "Name": "Content-Type",
@@ -1727,11 +1727,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk=\""
+          "Value": "\"7Xt0CqwiqOZ/DykoLWzmoKidOE8dt0RrSOcevphTBfw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Feb 2025 07:50:05 GMT"
+          "Value": "Wed, 26 Feb 2025 08:04:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1741,7 +1741,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dyjx89twm7"
+          "Value": "hjvxm2ozfe"
         },
         {
           "Name": "label",
@@ -1749,7 +1749,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-u4DszuiY1WLPnENub5+KbAlwyJCcCHdKlyaXaKLaRqk="
+          "Value": "sha256-7Xt0CqwiqOZ/DykoLWzmoKidOE8dt0RrSOcevphTBfw="
         }
       ]
     },

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Big-Brother")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bc424e8298a4ebf4b6d02a4286d6d6615573638")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8b2bd4e2d8b18b49e1281214f569d0aeea6fbe8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Big-Brother")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Big-Brother")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

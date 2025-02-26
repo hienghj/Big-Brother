@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\views\\khuyenmai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\khuyenmai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\views\\baocao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\baocao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\wwwroot\\css\\baocao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\baocao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\controllers\\baocao\\baocaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\baocao\\baocaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\wwwroot\\css\\khuyenmai.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\khuyenmai.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\wwwroot\\css\\baocao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\baocao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\views\\khuyenmai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\khuyenmai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\wwwroot\\css\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\views\\baocao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\baocao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -78,10 +82,6 @@
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\danhang\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\controllers\\baocao\\baocaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\baocao\\baocaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\controllers\\sanpham\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\sanpham\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -105,49 +105,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Khuyenmai.css",
-              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\Khuyenmai.css",
-              "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\Khuyenmai.css",
-              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\Khuyenmai.css",
-              "RelativeToolTip": "Big-Brother\\wwwroot\\css\\Khuyenmai.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-26T07:50:06.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "BaoCao.css",
               "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\BaoCao.css",
               "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\BaoCao.css",
               "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\BaoCao.css",
               "RelativeToolTip": "Big-Brother\\wwwroot\\css\\BaoCao.css",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-02-13T02:23:03.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\BaoCao\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\BaoCao\\Index.cshtml",
               "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\BaoCao\\Index.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\BaoCao\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T07:52:54.53Z"
+              "WhenOpened": "2025-02-12T07:52:54.53Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\Home\\Index.cshtml",
@@ -159,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "TrangChuController.cs",
               "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\TrangChu\\TrangChuController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\TrangChu\\TrangChuController.cs",
@@ -171,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TrangChu.css",
               "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\TrangChu.css",
               "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\TrangChu.css",
@@ -183,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\site.css",
@@ -195,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\SanPham\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\SanPham\\Index.cshtml",
@@ -207,20 +195,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\KhuyenMai\\Index.cshtml*",
-              "RelativeToolTip": "Big-Brother\\Views\\KhuyenMai\\Index.cshtml*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
+              "RelativeToolTip": "Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-12T07:51:59.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "BaoCaoController.cs",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
+              "RelativeDocumentMoniker": "Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
+              "RelativeToolTip": "Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:03:35.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Khuyenmai.css",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\Khuyenmai.css",
+              "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\Khuyenmai.css",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\Khuyenmai.css",
+              "RelativeToolTip": "Big-Brother\\wwwroot\\css\\Khuyenmai.css",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-26T07:50:06.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\TrangChu\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\TrangChu\\Index.cshtml",
@@ -232,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
@@ -244,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Downloads\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\FPTSHOP\\Downloads\\Index.cshtml",
@@ -256,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\KhachHang\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\KhachHang\\Index.cshtml",
@@ -268,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\DanHang\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\DanHang\\Index.cshtml",
@@ -280,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\Home\\HomeController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\Home\\HomeController.cs",
@@ -292,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "KhuyenMaiController.cs",
               "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\KhuyenMai\\KhuyenMaiController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\KhuyenMai\\KhuyenMaiController.cs",
@@ -304,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "KhachHangController.cs",
               "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
@@ -316,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "QuanLyKhoController.cs",
               "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\QuanLyKho\\QuanLyKhoController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\QuanLyKho\\QuanLyKhoController.cs",
@@ -329,18 +343,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "BaoCaoController.cs",
-              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
-              "RelativeDocumentMoniker": "Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
-              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
-              "RelativeToolTip": "Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T08:03:35.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "DonHangController.cs",
               "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
