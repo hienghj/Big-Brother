@@ -1,38 +1,45 @@
-﻿<!DOCTYPE html>
-<html>
-<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-<body>
-    <div class="TieuDe">
-        <div class="Logo">
-            <img src="~/img/Logo.png" alt="BBT Shop">
+﻿@{
+    ViewData["Title"] = "Khuyến mãi";
+}
 
+<!-- Sidebar vẫn giữ nguyên -->
+<div class="sidebar">
+    <ul>
+        <li><a href="/Home/Index">Dashboard</a></li>
+        <li><a href="/TrangChu/Index">Trang chủ</a></li>
+        <li><a href="/DonHang/Index">Đơn hàng</a></li>
+        <li><a href="/SanPham/Index">Sản phẩm</a></li>
+        <li><a href="/QuanLyKho/Index">Quản lý kho</a></li>
+        <li><a href="/KhachHang/Index">Khách hàng</a></li>
+        <li><a href="/KhuyenMai/Index" class="active">Khuyến mãi</a></li>
+        <li><a href="/BaoCao/Index">Báo cáo</a></li>
+    </ul>
+</div>
+
+<!-- Nội dung chính -->
+<div class="content">
+    <h2 class="title">Khuyến mãi</h2>
+
+    <button class="btn btn-primary ma-khuyen-mai">Mã khuyến mãi</button>
+
+    <div class="promotion-container">
+        <div class="promotion-box">
+            <h3>📉 Giảm giá đơn hàng</h3>
+            <p>VD: Giảm giá 20% cho đơn từ 100,000đ</p>
         </div>
-        <div class=" TimKiem">
-            <header>
-                <input type="text" placeholder="Tìm kiếm...">
-            </header>
+        <div class="promotion-box">
+            <h3>% Giảm giá sản phẩm</h3>
+            <p>VD: Giảm giá 15% cho sản phẩm Áo phông</p>
         </div>
-        <div class="user-profail">
-            <img src="~/img/user-fail.jpg" />
-            <select>
-                <option>Đăng Xuất</option>
-            </select>
+        <div class="promotion-box">
+            <h3>🎁 Mua X tặng Y</h3>
+            <p>VD: Mua 1 tặng 1 kem chống nắng 40ml</p>
         </div>
     </div>
 
-    <div class="sidebar">
-        <div>
-            <ul>
-                <li><a href="/Home/Index">Dashboard</a></li>
-                <li><a href="/TrangChu/Index">Trang chủ</a></li>
-                <li><a href="/DanHang/Index">Đơn hàng</a></li>
-                <li><a href="/SanPham/Index">Sản phẩm</a></li>
-                <li><a href="/QuanLyKho/Index">Quản lý kho</a></li>
-                <li><a href="/KhachHang/Index">Khách hàng</a></li>
-                <li><a href="/KhuyenMai/Index">Khuyến mãi</a></li>
-                <li><a href="/BaoCao/Index">Báo cáo</a></li>
-            </ul>
-        </div>
-    </div>
-</body>
-</html>
+    <!-- Nút Hủy -->
+    <button class="btn btn-secondary btn-huy">Hủy</button>
+</div>
+
+<!-- Link CSS riêng -->
+<link rel="stylesheet" href="~/css/khuyenmai.css" asp-append-version="true" />
