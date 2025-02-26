@@ -3,48 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\wwwroot\\css\\sanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\sanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\wwwroot\\css\\dangnhap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\dangnhap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\wwwroot\\css\\donhang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\donhang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\views\\dangnhap\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\dangnhap\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\views\\danhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\danhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\views\\khuyenmai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\khuyenmai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\wwwroot\\css\\baocao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\baocao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\wwwroot\\css\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\controllers\\dangnhap\\dangnhapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\dangnhap\\dangnhapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\controllers\\danhang\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\danhang\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\controllers\\khachhang\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\khachhang\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\wwwroot\\css\\donhang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\donhang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\views\\baocao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\baocao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\wwwroot\\css\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\wwwroot\\css\\sanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\sanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\wwwroot\\css\\baocao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\baocao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\views\\baocao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\baocao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\controllers\\trangchu\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,14 +94,6 @@
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\quanlykho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\views\\khuyenmai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\khuyenmai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -76,14 +104,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\controllers\\khuyenmai\\khuyenmaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\khuyenmai\\khuyenmaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\controllers\\khachhang\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\khachhang\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\controllers\\danhang\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\danhang\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\controllers\\baocao\\baocaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -100,10 +120,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\user\\onedrive\\desktop\\bbt shop\\big-brother\\big-brother\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -113,37 +129,205 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "DonHangController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
+              "RelativeDocumentMoniker": "Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
+              "RelativeToolTip": "Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:05:23.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Big-Brother\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-12T03:42:16.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\DangNhap\\Index.cshtml",
+              "RelativeDocumentMoniker": "Big-Brother\\Views\\DangNhap\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\DangNhap\\Index.cshtml",
+              "RelativeToolTip": "Big-Brother\\Views\\DangNhap\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T06:13:19.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\BaoCao\\Index.cshtml",
+              "RelativeDocumentMoniker": "Big-Brother\\Views\\BaoCao\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\BaoCao\\Index.cshtml",
+              "RelativeToolTip": "Big-Brother\\Views\\BaoCao\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T07:52:54.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "SanPham.css",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\SanPham.css",
               "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\SanPham.css",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\SanPham.css",
               "RelativeToolTip": "Big-Brother\\wwwroot\\css\\SanPham.css",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAswKsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAqwJ4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-02-19T02:23:49.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Donhang.css",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\Donhang.css",
-              "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\Donhang.css",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\Donhang.css",
-              "RelativeToolTip": "Big-Brother\\wwwroot\\css\\Donhang.css",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAqwFwAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DangNhap.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\DangNhap.css",
+              "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\DangNhap.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\DangNhap.css",
+              "RelativeToolTip": "Big-Brother\\wwwroot\\css\\DangNhap.css",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-19T02:09:57.26Z",
+              "WhenOpened": "2025-02-26T06:16:04.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Big-Brother\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Big-Brother\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T03:17:44.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
+              "RelativeDocumentMoniker": "Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
+              "RelativeToolTip": "Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T07:51:59.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\DanHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "Big-Brother\\Views\\DanHang\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\DanHang\\Index.cshtml",
+              "RelativeToolTip": "Big-Brother\\Views\\DanHang\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T07:55:34.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\KhachHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "Big-Brother\\Views\\KhachHang\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\KhachHang\\Index.cshtml",
+              "RelativeToolTip": "Big-Brother\\Views\\KhachHang\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T07:51:32.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DangNhapController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Controllers\\DangNhap\\DangNhapController.cs",
+              "RelativeDocumentMoniker": "Big-Brother\\Controllers\\DangNhap\\DangNhapController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Controllers\\DangNhap\\DangNhapController.cs",
+              "RelativeToolTip": "Big-Brother\\Controllers\\DangNhap\\DangNhapController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T06:21:56.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Big-Brother\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Big-Brother\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T06:22:36.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
+              "RelativeToolTip": "Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:10:14.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\TrangChu\\Index.cshtml",
+              "RelativeDocumentMoniker": "Big-Brother\\Views\\TrangChu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\TrangChu\\Index.cshtml",
+              "RelativeToolTip": "Big-Brother\\Views\\TrangChu\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T06:17:29.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Big-Brother\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Big-Brother\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T05:28:28.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Program.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Program.cs",
@@ -151,12 +335,37 @@
               "RelativeToolTip": "Big-Brother\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T02:07:07.991Z",
+              "WhenOpened": "2025-02-19T02:07:07.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Donhang.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\Donhang.css",
+              "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\Donhang.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\Donhang.css",
+              "RelativeToolTip": "Big-Brother\\wwwroot\\css\\Donhang.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-19T02:09:57.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "TrangChu.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\TrangChu.css",
+              "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\TrangChu.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\TrangChu.css",
+              "RelativeToolTip": "Big-Brother\\wwwroot\\css\\TrangChu.css",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-12T06:19:44.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "BaoCao.css",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\BaoCao.css",
               "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\BaoCao.css",
@@ -169,31 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\BaoCao\\Index.cshtml",
-              "RelativeDocumentMoniker": "Big-Brother\\Views\\BaoCao\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\BaoCao\\Index.cshtml",
-              "RelativeToolTip": "Big-Brother\\Views\\BaoCao\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T07:52:54.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Big-Brother\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Big-Brother\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T03:17:44.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "TrangChuController.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Controllers\\TrangChu\\TrangChuController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\TrangChu\\TrangChuController.cs",
@@ -205,31 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TrangChu.css",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\TrangChu.css",
-              "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\TrangChu.css",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\TrangChu.css",
-              "RelativeToolTip": "Big-Brother\\wwwroot\\css\\TrangChu.css",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-12T06:19:44.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Big-Brother\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-12T03:42:16.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\SanPham\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\SanPham\\Index.cshtml",
@@ -237,37 +398,11 @@
               "RelativeToolTip": "Big-Brother\\Views\\SanPham\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T06:36:43.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T06:36:43.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\DanHang\\Index.cshtml",
-              "RelativeDocumentMoniker": "Big-Brother\\Views\\DanHang\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\DanHang\\Index.cshtml",
-              "RelativeToolTip": "Big-Brother\\Views\\DanHang\\Index.cshtml",
-              "ViewState": "AgIAADUAAAAAAAAAAAAuwEMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T07:55:34.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\TrangChu\\Index.cshtml",
-              "RelativeDocumentMoniker": "Big-Brother\\Views\\TrangChu\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\TrangChu\\Index.cshtml",
-              "RelativeToolTip": "Big-Brother\\Views\\TrangChu\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwCwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T06:17:29.852Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
@@ -279,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Downloads\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\FPTSHOP\\Downloads\\Index.cshtml",
@@ -291,31 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
-              "RelativeDocumentMoniker": "Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
-              "RelativeToolTip": "Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T07:51:59.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\KhachHang\\Index.cshtml",
-              "RelativeDocumentMoniker": "Big-Brother\\Views\\KhachHang\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\KhachHang\\Index.cshtml",
-              "RelativeToolTip": "Big-Brother\\Views\\KhachHang\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T07:51:32.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Controllers\\Home\\HomeController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\Home\\HomeController.cs",
@@ -327,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "KhuyenMaiController.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Controllers\\KhuyenMai\\KhuyenMaiController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\KhuyenMai\\KhuyenMaiController.cs",
@@ -339,19 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "KhachHangController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
-              "RelativeDocumentMoniker": "Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
-              "RelativeToolTip": "Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T08:10:14.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "QuanLyKhoController.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Controllers\\QuanLyKho\\QuanLyKhoController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\QuanLyKho\\QuanLyKhoController.cs",
@@ -363,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "BaoCaoController.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
@@ -375,19 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DonHangController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
-              "RelativeDocumentMoniker": "Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
-              "RelativeToolTip": "Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T08:05:23.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "SanPhamController.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Controllers\\SanPham\\SanPhamController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\SanPham\\SanPhamController.cs",
@@ -399,19 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Big-Brother\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Big-Brother\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T05:28:28.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\_ViewStart.cshtml",
@@ -423,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\js\\site.js",

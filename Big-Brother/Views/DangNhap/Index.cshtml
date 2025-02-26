@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đăng Nhập - BBT Shop</title>
+    <link rel="stylesheet" href="~/css/DangNhap.css" asp-append-version="true" />
+</head>
+<body>
+
+    <!-- Logo + Tên Shop -->
+    <div class="header">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="BBT Logo">
+        BBT Shop
+    </div>
+
+    <!-- Container chính -->
+    <div class="login-container">
+        <!-- Ảnh minh họa -->
+        <div class="login-image">
+            <img src="https://cdni.iconscout.com/illustration/premium/thumb/login-3305943-2757111.png" alt="Login Illustration">
+        </div>
+
+        <!-- Form đăng nhập -->
+        <div class="login-form">
+            <h2>Đăng Nhập</h2>
+            <p id="error-message" class="error-message">Vui lòng nhập tài khoản và mật khẩu!</p>
+            <div class="input-group">
+                <input type="text" id="username" placeholder="Tài khoản">
+            </div>
+            <div class="input-group">
+                <input type="password" id="password" placeholder="Mật khẩu">
+            </div>
+            <button class="login-btn" id="login-btn">Đăng Nhập</button>
+        </div>
+    </div>
+    <script>
+        document.getElementById("login-btn").addEventListener("click", function (event) {
+            event.preventDefault(); // Ngăn form gửi đi
+
+            let username = document.getElementById("username").value.trim();
+            let password = document.getElementById("password").value.trim();
+            let errorMessage = document.getElementById("error-message");
+
+            if (username === "" || password === "") {
+                errorMessage.style.display = "block"; // Hiện lỗi khi nhấn nút
+            } else {
+                errorMessage.style.display = "none"; // Ẩn lỗi nếu nhập đủ
+                alert("Đăng nhập thành công!"); // Xử lý logic đăng nhập
+            }
+        });
+    </script>
+</body>
+</html>

@@ -167,6 +167,88 @@
       ]
     },
     {
+      "Route": "css/DangNhap.4crt4k3vyy.css",
+      "AssetFile": "css/DangNhap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XIw+sdSv4A6e/qva9sYLraSR1B1CRqWXyHf0pPXfglo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 07:04:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4crt4k3vyy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XIw+sdSv4A6e/qva9sYLraSR1B1CRqWXyHf0pPXfglo="
+        },
+        {
+          "Name": "label",
+          "Value": "css/DangNhap.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/DangNhap.css",
+      "AssetFile": "css/DangNhap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XIw+sdSv4A6e/qva9sYLraSR1B1CRqWXyHf0pPXfglo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 07:04:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XIw+sdSv4A6e/qva9sYLraSR1B1CRqWXyHf0pPXfglo="
+        }
+      ]
+    },
+    {
       "Route": "css/Donhang.b2t3rttcee.css",
       "AssetFile": "css/Donhang.css",
       "Selectors": [],
@@ -275,7 +357,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 02:23:53 GMT"
+          "Value": "Wed, 19 Feb 2025 02:28:24 GMT"
         }
       ],
       "EndpointProperties": [
@@ -320,7 +402,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 02:23:53 GMT"
+          "Value": "Wed, 19 Feb 2025 02:28:24 GMT"
         }
       ],
       "EndpointProperties": [

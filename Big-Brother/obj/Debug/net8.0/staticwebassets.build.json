@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rnHdnyTXfmDKuQ4BlMi18P0sq12bWgU9mV1DZ5lWCfE=",
+  "Hash": "bDvl8UYtT7w5AauWIgVojc+mEfmn88DqUxnIQkBdpVE=",
   "Source": "Big-Brother",
   "BasePath": "_content/Big-Brother",
   "Mode": "Default",
@@ -78,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\BaoCao.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\DangNhap.css",
+      "SourceId": "Big-Brother",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\",
+      "BasePath": "_content/Big-Brother",
+      "RelativePath": "css/DangNhap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4crt4k3vyy",
+      "Integrity": "XIw+sdSv4A6e/qva9sYLraSR1B1CRqWXyHf0pPXfglo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\DangNhap.css"
     },
     {
       "Identity": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\Donhang.css",
@@ -1693,6 +1714,88 @@
       ]
     },
     {
+      "Route": "css/DangNhap.4crt4k3vyy.css",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\DangNhap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XIw+sdSv4A6e/qva9sYLraSR1B1CRqWXyHf0pPXfglo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 07:04:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4crt4k3vyy"
+        },
+        {
+          "Name": "label",
+          "Value": "css/DangNhap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XIw+sdSv4A6e/qva9sYLraSR1B1CRqWXyHf0pPXfglo="
+        }
+      ]
+    },
+    {
+      "Route": "css/DangNhap.css",
+      "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\DangNhap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1738"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XIw+sdSv4A6e/qva9sYLraSR1B1CRqWXyHf0pPXfglo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 07:04:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XIw+sdSv4A6e/qva9sYLraSR1B1CRqWXyHf0pPXfglo="
+        }
+      ]
+    },
+    {
       "Route": "css/Donhang.b2t3rttcee.css",
       "AssetFile": "C:\\Users\\User\\OneDrive\\Desktop\\BBT Shop\\Big-Brother\\Big-Brother\\wwwroot\\css\\Donhang.css",
       "Selectors": [],
@@ -1797,7 +1900,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 02:23:53 GMT"
+          "Value": "Wed, 19 Feb 2025 02:28:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1842,7 +1945,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 02:23:53 GMT"
+          "Value": "Wed, 19 Feb 2025 02:28:24 GMT"
         },
         {
           "Name": "Cache-Control",
