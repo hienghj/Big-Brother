@@ -1,11 +1,6 @@
 wwwroot\css\BaoCao.css
-
 wwwroot\css\KhachHang.css
 wwwroot\css\QuanLyKho.css
-
-wwwroot\css\Donhang.css
-wwwroot\css\SanPham.css
-
 wwwroot\css\site.css
 wwwroot\css\TrangChu.css
 wwwroot\favicon.ico
