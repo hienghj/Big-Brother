@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z7nfFYKo3n7GzrqNDha+Oxyu/G1JEebw9qdH0UpU5ns=",
+  "Hash": "hnpQadgKI2Hm8nJupeGYU/Vr9yggTdS0abssAVJuOmE=",
   "Source": "Big-Brother",
   "BasePath": "_content/Big-Brother",
   "Mode": "Default",
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "57b9ea1fof",
-      "Integrity": "8aZwCVW8cAArwz2kjxCKQDlx1ZhqlumHzcRBv78UWHw=",
+      "Fingerprint": "75qtms8dfq",
+      "Integrity": "m6+75AzItswINNEjOzOQHqGY3/kZT5/5aN/yz4zL+SE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\KhachHang.css"
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "k3kijmi2gv",
-      "Integrity": "QOH1JlXSMUAeFqhBy1RMA3CvGPGzSZzLoXPJgxKLBFw=",
+      "Fingerprint": "f9buhle89u",
+      "Integrity": "g5mOUbVYAwwf2mJBiVe9DtuSTlaWRMFOck2m0aZRbFA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\QuanLyKho.css"
@@ -1693,7 +1693,7 @@
       ]
     },
     {
-      "Route": "css/KhachHang.57b9ea1fof.css",
+      "Route": "css/KhachHang.75qtms8dfq.css",
       "AssetFile": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\KhachHang.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1703,7 +1703,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2153"
+          "Value": "2231"
         },
         {
           "Name": "Content-Type",
@@ -1711,11 +1711,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8aZwCVW8cAArwz2kjxCKQDlx1ZhqlumHzcRBv78UWHw=\""
+          "Value": "\"m6+75AzItswINNEjOzOQHqGY3/kZT5/5aN/yz4zL+SE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 02:03:21 GMT"
+          "Value": "Thu, 27 Feb 2025 04:15:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1725,7 +1725,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "57b9ea1fof"
+          "Value": "75qtms8dfq"
         },
         {
           "Name": "label",
@@ -1733,7 +1733,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8aZwCVW8cAArwz2kjxCKQDlx1ZhqlumHzcRBv78UWHw="
+          "Value": "sha256-m6+75AzItswINNEjOzOQHqGY3/kZT5/5aN/yz4zL+SE="
         }
       ]
     },
@@ -1748,7 +1748,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2153"
+          "Value": "2231"
         },
         {
           "Name": "Content-Type",
@@ -1756,11 +1756,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8aZwCVW8cAArwz2kjxCKQDlx1ZhqlumHzcRBv78UWHw=\""
+          "Value": "\"m6+75AzItswINNEjOzOQHqGY3/kZT5/5aN/yz4zL+SE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 02:03:21 GMT"
+          "Value": "Thu, 27 Feb 2025 04:15:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1770,7 +1770,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8aZwCVW8cAArwz2kjxCKQDlx1ZhqlumHzcRBv78UWHw="
+          "Value": "sha256-m6+75AzItswINNEjOzOQHqGY3/kZT5/5aN/yz4zL+SE="
         }
       ]
     },
@@ -1785,7 +1785,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2016"
+          "Value": "2096"
         },
         {
           "Name": "Content-Type",
@@ -1793,11 +1793,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QOH1JlXSMUAeFqhBy1RMA3CvGPGzSZzLoXPJgxKLBFw=\""
+          "Value": "\"g5mOUbVYAwwf2mJBiVe9DtuSTlaWRMFOck2m0aZRbFA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 02:03:29 GMT"
+          "Value": "Thu, 27 Feb 2025 04:15:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1807,12 +1807,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QOH1JlXSMUAeFqhBy1RMA3CvGPGzSZzLoXPJgxKLBFw="
+          "Value": "sha256-g5mOUbVYAwwf2mJBiVe9DtuSTlaWRMFOck2m0aZRbFA="
         }
       ]
     },
     {
-      "Route": "css/QuanLyKho.k3kijmi2gv.css",
+      "Route": "css/QuanLyKho.f9buhle89u.css",
       "AssetFile": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\QuanLyKho.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1822,7 +1822,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2016"
+          "Value": "2096"
         },
         {
           "Name": "Content-Type",
@@ -1830,11 +1830,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QOH1JlXSMUAeFqhBy1RMA3CvGPGzSZzLoXPJgxKLBFw=\""
+          "Value": "\"g5mOUbVYAwwf2mJBiVe9DtuSTlaWRMFOck2m0aZRbFA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Feb 2025 02:03:29 GMT"
+          "Value": "Thu, 27 Feb 2025 04:15:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1844,7 +1844,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "k3kijmi2gv"
+          "Value": "f9buhle89u"
         },
         {
           "Name": "label",
@@ -1852,7 +1852,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QOH1JlXSMUAeFqhBy1RMA3CvGPGzSZzLoXPJgxKLBFw="
+          "Value": "sha256-g5mOUbVYAwwf2mJBiVe9DtuSTlaWRMFOck2m0aZRbFA="
         }
       ]
     },

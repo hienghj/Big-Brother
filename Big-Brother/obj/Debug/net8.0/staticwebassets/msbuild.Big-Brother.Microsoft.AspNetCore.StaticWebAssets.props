@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>57b9ea1fof</Fingerprint>
-      <Integrity>8aZwCVW8cAArwz2kjxCKQDlx1ZhqlumHzcRBv78UWHw=</Integrity>
+      <Fingerprint>75qtms8dfq</Fingerprint>
+      <Integrity>m6+75AzItswINNEjOzOQHqGY3/kZT5/5aN/yz4zL+SE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\KhachHang.css'))</OriginalItemSpec>
@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>k3kijmi2gv</Fingerprint>
-      <Integrity>QOH1JlXSMUAeFqhBy1RMA3CvGPGzSZzLoXPJgxKLBFw=</Integrity>
+      <Fingerprint>f9buhle89u</Fingerprint>
+      <Integrity>g5mOUbVYAwwf2mJBiVe9DtuSTlaWRMFOck2m0aZRbFA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\QuanLyKho.css'))</OriginalItemSpec>
