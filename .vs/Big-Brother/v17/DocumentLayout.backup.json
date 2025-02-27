@@ -1,108 +1,108 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Downloads\\Big-Brother-hien\\",
+  "WorkspaceRootPath": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\wwwroot\\css\\quanlykho.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\wwwroot\\css\\quanlykho.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\quanlykho.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\wwwroot\\css\\khachhang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\wwwroot\\css\\khachhang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\khachhang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\views\\quanlykho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\views\\quanlykho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\quanlykho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\views\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\views\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\wwwroot\\css\\baocao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\wwwroot\\css\\baocao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\baocao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\wwwroot\\css\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\wwwroot\\css\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\views\\baocao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\views\\baocao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\baocao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\controllers\\trangchu\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\controllers\\trangchu\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\trangchu\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FPTSHOP\\Downloads\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\views\\khuyenmai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\views\\khuyenmai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\khuyenmai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\views\\danhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\views\\danhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\danhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\controllers\\quanlykho\\quanlykhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\controllers\\quanlykho\\quanlykhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\quanlykho\\quanlykhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\controllers\\khuyenmai\\khuyenmaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\controllers\\khuyenmai\\khuyenmaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\khuyenmai\\khuyenmaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\controllers\\khachhang\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\controllers\\khachhang\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\khachhang\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\controllers\\danhang\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\controllers\\danhang\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\danhang\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\controllers\\baocao\\baocaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\controllers\\baocao\\baocaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\baocao\\baocaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\controllers\\sanpham\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\controllers\\sanpham\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\sanpham\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\big-brother-hien\\big-brother\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|d:\\downloads\\githubdesktop_big-brother\\big-brother\\big-brother\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -113,21 +113,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "QuanLyKho.css",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\wwwroot\\css\\QuanLyKho.css",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\QuanLyKho.css",
               "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\QuanLyKho.css",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\wwwroot\\css\\QuanLyKho.css",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\QuanLyKho.css",
               "RelativeToolTip": "Big-Brother\\wwwroot\\css\\QuanLyKho.css",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAQwHkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwHkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-02-27T01:47:50.79Z",
               "EditorCaption": ""
@@ -136,35 +132,33 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "KhachHang.css",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\wwwroot\\css\\KhachHang.css",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\KhachHang.css",
               "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\KhachHang.css",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\wwwroot\\css\\KhachHang.css",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\KhachHang.css",
               "RelativeToolTip": "Big-Brother\\wwwroot\\css\\KhachHang.css",
               "ViewState": "AgIAAGkAAAAAAAAAAAAQwHQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-27T01:47:11.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T01:47:11.057Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "test.cs",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\test.cs",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\test.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\test.cs",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\test.cs",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\test.cs",
               "RelativeToolTip": "Big-Brother\\Views\\test.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T05:10:29.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T05:10:29.525Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "BaoCao.css",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\wwwroot\\css\\BaoCao.css",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\BaoCao.css",
               "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\BaoCao.css",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\wwwroot\\css\\BaoCao.css",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\BaoCao.css",
               "RelativeToolTip": "Big-Brother\\wwwroot\\css\\BaoCao.css",
               "ViewState": "AgIAAD4AAAAAAAAAAAAAwKQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -174,9 +168,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\TrangChu\\Index.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\TrangChu\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\TrangChu\\Index.cshtml",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\TrangChu\\Index.cshtml",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\TrangChu\\Index.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\TrangChu\\Index.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAYwCwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -186,9 +180,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\BaoCao\\Index.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\BaoCao\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\BaoCao\\Index.cshtml",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\BaoCao\\Index.cshtml",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\BaoCao\\Index.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\BaoCao\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -198,9 +192,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -210,9 +204,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "TrangChuController.cs",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Controllers\\TrangChu\\TrangChuController.cs",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Controllers\\TrangChu\\TrangChuController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\TrangChu\\TrangChuController.cs",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Controllers\\TrangChu\\TrangChuController.cs",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Controllers\\TrangChu\\TrangChuController.cs",
               "RelativeToolTip": "Big-Brother\\Controllers\\TrangChu\\TrangChuController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -222,9 +216,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "TrangChu.css",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\wwwroot\\css\\TrangChu.css",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\TrangChu.css",
               "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\TrangChu.css",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\wwwroot\\css\\TrangChu.css",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\TrangChu.css",
               "RelativeToolTip": "Big-Brother\\wwwroot\\css\\TrangChu.css",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -234,9 +228,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "site.css",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Big-Brother\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -246,9 +240,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\SanPham\\Index.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\SanPham\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\SanPham\\Index.cshtml",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\SanPham\\Index.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\SanPham\\Index.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -258,14 +252,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
               "ViewState": "AgIAAPQAAAAAAAAAAAAUwP4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T07:42:57.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T07:42:57.361Z"
             },
             {
               "$type": "Document",
@@ -281,9 +274,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -293,22 +286,21 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\KhachHang\\Index.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\KhachHang\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\KhachHang\\Index.cshtml",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\KhachHang\\Index.cshtml",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\KhachHang\\Index.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\KhachHang\\Index.cshtml",
               "ViewState": "AgIAALcAAAAAAAAAAAAUwMEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T07:51:32.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T07:51:32.19Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\DanHang\\Index.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\DanHang\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\DanHang\\Index.cshtml",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\DanHang\\Index.cshtml",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\DanHang\\Index.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\DanHang\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -318,9 +310,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Controllers\\Home\\HomeController.cs",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Controllers\\Home\\HomeController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\Home\\HomeController.cs",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Controllers\\Home\\HomeController.cs",
               "RelativeToolTip": "Big-Brother\\Controllers\\Home\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -330,9 +322,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "KhuyenMaiController.cs",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Controllers\\KhuyenMai\\KhuyenMaiController.cs",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Controllers\\KhuyenMai\\KhuyenMaiController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\KhuyenMai\\KhuyenMaiController.cs",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Controllers\\KhuyenMai\\KhuyenMaiController.cs",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Controllers\\KhuyenMai\\KhuyenMaiController.cs",
               "RelativeToolTip": "Big-Brother\\Controllers\\KhuyenMai\\KhuyenMaiController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -342,9 +334,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "KhachHangController.cs",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
               "RelativeToolTip": "Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -354,9 +346,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "QuanLyKhoController.cs",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Controllers\\QuanLyKho\\QuanLyKhoController.cs",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Controllers\\QuanLyKho\\QuanLyKhoController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\QuanLyKho\\QuanLyKhoController.cs",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Controllers\\QuanLyKho\\QuanLyKhoController.cs",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Controllers\\QuanLyKho\\QuanLyKhoController.cs",
               "RelativeToolTip": "Big-Brother\\Controllers\\QuanLyKho\\QuanLyKhoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -366,9 +358,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "BaoCaoController.cs",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
               "RelativeToolTip": "Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -378,9 +370,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "DonHangController.cs",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
               "RelativeToolTip": "Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -390,9 +382,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "SanPhamController.cs",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Controllers\\SanPham\\SanPhamController.cs",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Controllers\\SanPham\\SanPhamController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\SanPham\\SanPhamController.cs",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Controllers\\SanPham\\SanPhamController.cs",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Controllers\\SanPham\\SanPhamController.cs",
               "RelativeToolTip": "Big-Brother\\Controllers\\SanPham\\SanPhamController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -402,9 +394,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -414,9 +406,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -426,13 +418,17 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "site.js",
-              "DocumentMoniker": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\js\\site.js",
-              "ToolTip": "D:\\Downloads\\Big-Brother-hien\\Big-Brother\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Downloads\\GithubDesktop_Big-Brother\\Big-Brother\\Big-Brother\\wwwroot\\js\\site.js",
               "RelativeToolTip": "Big-Brother\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-02-12T04:40:56.534Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5h6mcd0q6q</Fingerprint>
-      <Integrity>SSrOFM/nswQ2i51oQOS8B/DZX2SdRANDPLbKCtPcfDg=</Integrity>
+      <Fingerprint>k3kijmi2gv</Fingerprint>
+      <Integrity>QOH1JlXSMUAeFqhBy1RMA3CvGPGzSZzLoXPJgxKLBFw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\QuanLyKho.css'))</OriginalItemSpec>
