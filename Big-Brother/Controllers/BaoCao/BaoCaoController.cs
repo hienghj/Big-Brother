@@ -1,9 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-public class BaoCaoController : Controller
+namespace BigBrother.Controllers
 {
-    public IActionResult Index()
+    public class BaoCaoController : Controller
     {
-        return View();
+        public IActionResult Index()
+        {
+            return View();
+        }
     }
 }

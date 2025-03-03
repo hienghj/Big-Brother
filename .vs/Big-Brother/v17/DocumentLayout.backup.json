@@ -1,96 +1,100 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\",
+  "WorkspaceRootPath": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\wwwroot\\css\\baocao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\baocao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\wwwroot\\css\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\views\\baocao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\views\\baocao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\baocao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\controllers\\baocao\\baocaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\baocao\\baocaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\wwwroot\\css\\baocao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\baocao.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\wwwroot\\css\\khuyenmai.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\khuyenmai.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\views\\khuyenmai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\khuyenmai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\wwwroot\\css\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\trangchu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\controllers\\trangchu\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\controllers\\trangchu\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\trangchu\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FPTSHOP\\Downloads\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\views\\quanlykho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\views\\quanlykho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\quanlykho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\views\\khuyenmai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\khuyenmai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\views\\danhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\views\\danhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\danhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\controllers\\quanlykho\\quanlykhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\controllers\\quanlykho\\quanlykhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\quanlykho\\quanlykhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\controllers\\khuyenmai\\khuyenmaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\controllers\\khuyenmai\\khuyenmaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\khuyenmai\\khuyenmaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\controllers\\khachhang\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\controllers\\khachhang\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\khachhang\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\controllers\\danhang\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\controllers\\danhang\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\danhang\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\controllers\\baocao\\baocaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\baocao\\baocaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\controllers\\sanpham\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\controllers\\sanpham\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\controllers\\sanpham\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\fptshop\\desktop\\c#\\big-brother\\big-brother\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|c:\\users\\dungh\\onedrive\\m\u00E1y t\u00EDnh\\bigbrother\\big-brother\\big-brother\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4D955967-1DAC-459F-9288-D8E003125CCE}|Big-Brother\\Big-Brother.csproj|solutionrelative:big-brother\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -101,52 +105,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BaoCao.css",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\wwwroot\\css\\BaoCao.css",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\BaoCao.css",
               "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\BaoCao.css",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\wwwroot\\css\\BaoCao.css",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\BaoCao.css",
               "RelativeToolTip": "Big-Brother\\wwwroot\\css\\BaoCao.css",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAwKQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-02-13T02:23:03.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\TrangChu\\Index.cshtml",
-              "RelativeDocumentMoniker": "Big-Brother\\Views\\TrangChu\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\TrangChu\\Index.cshtml",
-              "RelativeToolTip": "Big-Brother\\Views\\TrangChu\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwCwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T06:17:29.852Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\BaoCao\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\BaoCao\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\BaoCao\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\BaoCao\\Index.cshtml",
-              "RelativeToolTip": "Big-Brother\\Views\\BaoCao\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\BaoCao\\Index.cshtml*",
+              "RelativeToolTip": "Big-Brother\\Views\\BaoCao\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T07:52:54.53Z"
+              "WhenOpened": "2025-02-12T07:52:54.53Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -154,11 +147,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "TrangChuController.cs",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Controllers\\TrangChu\\TrangChuController.cs",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\TrangChu\\TrangChuController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\TrangChu\\TrangChuController.cs",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Controllers\\TrangChu\\TrangChuController.cs",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\TrangChu\\TrangChuController.cs",
               "RelativeToolTip": "Big-Brother\\Controllers\\TrangChu\\TrangChuController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,11 +159,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "TrangChu.css",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\wwwroot\\css\\TrangChu.css",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\TrangChu.css",
               "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\TrangChu.css",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\wwwroot\\css\\TrangChu.css",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\TrangChu.css",
               "RelativeToolTip": "Big-Brother\\wwwroot\\css\\TrangChu.css",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -178,11 +171,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Big-Brother\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -190,11 +183,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\SanPham\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\SanPham\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\SanPham\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\SanPham\\Index.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\SanPham\\Index.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -202,11 +195,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
+              "RelativeDocumentMoniker": "Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
+              "RelativeToolTip": "Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T07:51:59.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaoCaoController.cs",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
+              "RelativeDocumentMoniker": "Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs*",
+              "RelativeToolTip": "Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:03:35.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Khuyenmai.css",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\Khuyenmai.css",
+              "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\css\\Khuyenmai.css",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\css\\Khuyenmai.css",
+              "RelativeToolTip": "Big-Brother\\wwwroot\\css\\Khuyenmai.css",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-26T07:50:06.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\TrangChu\\Index.cshtml",
+              "RelativeDocumentMoniker": "Big-Brother\\Views\\TrangChu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\TrangChu\\Index.cshtml",
+              "RelativeToolTip": "Big-Brother\\Views\\TrangChu\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T06:17:29.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\QuanLyKho\\Index.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -214,35 +258,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\FPTSHOP\\Downloads\\Index.cshtml",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\FPTSHOP\\Downloads\\Index.cshtml",
               "ToolTip": "C:\\Users\\FPTSHOP\\Downloads\\Index.cshtml",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\FPTSHOP\\Downloads\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-12T16:04:32.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
-              "RelativeDocumentMoniker": "Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
-              "RelativeToolTip": "Big-Brother\\Views\\KhuyenMai\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T07:51:59.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\KhachHang\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\KhachHang\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\KhachHang\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\KhachHang\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\KhachHang\\Index.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\KhachHang\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -250,11 +282,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\DanHang\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\DanHang\\Index.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\DanHang\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\DanHang\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\DanHang\\Index.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\DanHang\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -262,11 +294,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Controllers\\Home\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\Home\\HomeController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\Home\\HomeController.cs",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\Home\\HomeController.cs",
               "RelativeToolTip": "Big-Brother\\Controllers\\Home\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -274,11 +306,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "KhuyenMaiController.cs",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Controllers\\KhuyenMai\\KhuyenMaiController.cs",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\KhuyenMai\\KhuyenMaiController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\KhuyenMai\\KhuyenMaiController.cs",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Controllers\\KhuyenMai\\KhuyenMaiController.cs",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\KhuyenMai\\KhuyenMaiController.cs",
               "RelativeToolTip": "Big-Brother\\Controllers\\KhuyenMai\\KhuyenMaiController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -286,11 +318,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "KhachHangController.cs",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
               "RelativeToolTip": "Big-Brother\\Controllers\\KhachHang\\KhachHangController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -298,11 +330,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "QuanLyKhoController.cs",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Controllers\\QuanLyKho\\QuanLyKhoController.cs",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\QuanLyKho\\QuanLyKhoController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\QuanLyKho\\QuanLyKhoController.cs",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Controllers\\QuanLyKho\\QuanLyKhoController.cs",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\QuanLyKho\\QuanLyKhoController.cs",
               "RelativeToolTip": "Big-Brother\\Controllers\\QuanLyKho\\QuanLyKhoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -310,23 +342,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BaoCaoController.cs",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
-              "RelativeDocumentMoniker": "Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
-              "RelativeToolTip": "Big-Brother\\Controllers\\BaoCao\\BaoCaoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T08:03:35.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "DonHangController.cs",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
               "RelativeToolTip": "Big-Brother\\Controllers\\DanHang\\DonHangController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -334,11 +354,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "SanPhamController.cs",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Controllers\\SanPham\\SanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\SanPham\\SanPhamController.cs",
               "RelativeDocumentMoniker": "Big-Brother\\Controllers\\SanPham\\SanPhamController.cs",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Controllers\\SanPham\\SanPhamController.cs",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Controllers\\SanPham\\SanPhamController.cs",
               "RelativeToolTip": "Big-Brother\\Controllers\\SanPham\\SanPhamController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -346,11 +366,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -358,11 +378,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Big-Brother\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Big-Brother\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -370,11 +390,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "Big-Brother\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\FPTSHOP\\Desktop\\c#\\Big-Brother\\Big-Brother\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\dungh\\OneDrive\\M\u00E1y t\u00EDnh\\BigBrother\\Big-Brother\\Big-Brother\\wwwroot\\js\\site.js",
               "RelativeToolTip": "Big-Brother\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
